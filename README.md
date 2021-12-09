@@ -1,2 +1,2 @@
 # allwisp
-All in one invoicing, CRM and recurring billing software
+All-in-one invoicing, CRM, CMS, reminder, organizer nd recurring billing software
