@@ -17,7 +17,7 @@ Minimum FRONTEND Requirements
 ********
 
 ```bash
-#Javascript librariesin compressed versions (min.js)
+#Javascript libraries in compressed versions (min.js)
 jQuery                    v3.6.0
 jQuery UI                 v1.12.1
 jQuery OverlayScrollbars  v1.13.0
