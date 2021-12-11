@@ -29,3 +29,27 @@ Bootstrap Tagsinput       v0.8.0
 AdminLTE                  v3.1.0
 Easymde                   v2.15.0
 ```
+
+********
+Installation
+********
+
+```bash
+
+cd $HOME
+
+sudo mkdir allwisp
+
+git clone https://github.com/escomputers/allwisp.git
+
+#move "site-packages" folder to python3 system directory
+mv allwisp/env_allwisp/lib/python3.8/site-packages/ $HOME/.local/lib/python3.8/site-packages
+
+python3 managey.py makemigrations
+
+python3 manage.py migrate
+
+python3 manage.py createsuperuser
+
+python3 manage.py runserver 0.0.0.0:8000
+```
