@@ -7,8 +7,9 @@ BACKEND Requirements
 ********
 
 ```bash
-python  3.8.10
-pip     20.0.2
+Ubuntu Server 20.04 LTS
+Python        3.8.10
+Pip           20.0.2
 ```
 
 ********
@@ -30,7 +31,7 @@ Easymde                   v2.15.0
 ```
 
 ********
-Installation
+Installation 
 ********
 
 ```bash
@@ -50,6 +51,8 @@ sudo python3 -m venv env_allwisp
 #mv allwisp/env_allwisp/lib/python3.8/site-packages/ $HOME/.local/lib/python3.8/site-packages
 
 source env_allwisp/bin/activate
+
+cd allwisp
 
 python3 managey.py makemigrations
 
