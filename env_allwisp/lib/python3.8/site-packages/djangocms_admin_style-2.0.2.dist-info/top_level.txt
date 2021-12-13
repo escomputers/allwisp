@@ -1,0 +1,2 @@
+djangocms_admin_style
+tests
