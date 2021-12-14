@@ -55,7 +55,9 @@ python3 manage.py createsuperuser
 
 python3 manage.py runserver 0.0.0.0:8000
 
-assign user admin to a user group
+1) Create user groups 
+2) Assign users to groups
+2) Create task list with same name used in allwisp/allwisp/allwisp/settings.py
 ```
 
 PRODUCTION
