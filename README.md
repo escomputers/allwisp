@@ -1,22 +1,18 @@
-# allwisp
-All-in-one invoicing, CRM, CMS, reminder, organizer nd recurring billing software
+# Features
 
+In progress
 
-********
-BACKEND Requirements
-********
+# Demo
+
+In progress
+
+# Requirements
 
 ```bash
 Ubuntu Server 20.04 LTS
 Python        3.8.10
 Pip           20.0.2
-```
 
-********
-FRONTEND Requirements
-********
-
-```bash
 #Javascript libraries in compressed versions (min.js)
 jQuery                    v3.6.0
 jQuery UI                 v1.12.1
@@ -30,9 +26,7 @@ AdminLTE                  v3.1.0
 Easymde                   v2.15.0
 ```
 
-********
-Installation 
-********
+# Installation 
 
 ```bash
 
@@ -61,4 +55,6 @@ python3 manage.py migrate
 python3 manage.py createsuperuser
 
 python3 manage.py runserver 0.0.0.0:8000
+
+assign user admin to a user group
 ```
