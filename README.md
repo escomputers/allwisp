@@ -28,6 +28,8 @@ Easymde                   v2.15.0
 
 # Installation 
 
+VIRTUAL ENV
+**********
 ```bash
 
 cd $HOME
@@ -40,9 +42,6 @@ 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
 cd allwisp
 
 sudo python3 -m venv env_allwisp
-
-#move "site-packages" folder to python3 system directory
-#mv allwisp/env_allwisp/lib/python3.8/site-packages/ $HOME/.local/lib/python3.8/site-packages
 
 source env_allwisp/bin/activate
 
@@ -57,4 +56,12 @@ python3 manage.py createsuperuser
 python3 manage.py runserver 0.0.0.0:8000
 
 assign user admin to a user group
+```
+
+PRODUCTION
+**********
+```bash
+
+In progress
+
 ```
