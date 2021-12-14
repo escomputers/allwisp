@@ -46,7 +46,7 @@ source env_allwisp/bin/activate
 
 cd allwisp
 
-python3 managey.py makemigrations
+python3 manage.py makemigrations
 
 python3 manage.py migrate
 
