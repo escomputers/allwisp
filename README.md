@@ -24,6 +24,7 @@ Bootstrap Toggle          v2.2.2
 Bootstrap Tagsinput       v0.8.0
 AdminLTE                  v3.1.0
 Easymde                   v2.15.0
+Fullcalendar              v2.2.5
 ```
 
 # Installation 
