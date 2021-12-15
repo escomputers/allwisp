@@ -56,7 +56,7 @@ python3 manage.py runserver 0.0.0.0:8000
 
 1) Create user groups 
 2) Assign users to groups
-2) Create task list with same name used in allwisp/allwisp/allwisp/settings.py
+3) Create task list with same name used in allwisp/allwisp/allwisp/settings.py
 ```
 
 PRODUCTION
