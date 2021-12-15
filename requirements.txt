@@ -35,14 +35,21 @@ Markdown==3.3.4
 Unidecode==1.1.1
 markdown-checklist==0.4.3
 django-cryptography==1.0
+
 #specificCustomer&invoicelib#
+
 Babel==2.9.1
 django-babel==0.6.2
 django-iban==0.3.1
 django-internationalflavor==0.4.2
 django-localflavor==3.1
-django-phonenumber-field==6.0.0 #installato già nelle versioni django 3.1 e superiori#
-django-vies==6.0.2#per il campo iva#
+
+#installato già nelle versioni django 3.1 e superiori#
+django-phonenumber-field==6.0.0 
+
+#per il campo iva#
+django-vies==6.0.2
+
 #mysql-connector==2.2.9
 mysql-connector-python==8.0.27
 mysqlclient==2.0.3, per la creazione di client mysql#
