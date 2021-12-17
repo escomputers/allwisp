@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 
 from pathlib import Path
 import os
+from django.conf.urls.static import static
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -60,6 +61,17 @@ INSTALLED_APPS = [
 	'crispy_forms',
     'taggit',
 	'notes',
+    'apps.customer.apps.CustomerConfig' ,
+    'apps.invoices.apps.InvoicesConfig',
+    'apps.items.apps.ItemsConfig',
+    'apps.reports.apps.ReportsConfig',
+    'apps.expenses.apps.ExpensesConfig',
+    'apps.attachment.apps.AttachmentConfig',
+    'commonviews.apps.CommonviewsConfig',
+    'localflavor',
+    'internationalflavor', 
+    'phonenumber_field',
+    'babel'
 ]
 
 THUMBNAIL_HIGH_RESOLUTION = True
@@ -191,3 +203,4 @@ EMAIL_HOST = 'mail.arpanetitalia.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'service@arpanetitalia.com'
 EMAIL_HOST_PASSWORD = 'arp$trSpd8889'
+PHONENUMBER_DB_FORMAT = "INTERNATIONAL"
