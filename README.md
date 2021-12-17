@@ -1,6 +1,6 @@
 # Features
 
-In progresso
+In progress
 
 # Demo
 
