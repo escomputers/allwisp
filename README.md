@@ -40,7 +40,7 @@ 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
 
 cd allwisp
 
-sudo python3 -m venv env_allwisp
+python3 -m venv env_allwisp
 
 source env_allwisp/bin/activate
 
