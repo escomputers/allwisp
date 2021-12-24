@@ -29,6 +29,7 @@ urlpatterns = [
 		path('items/', include('apps.items.urls')),
 		path('accounting/', include('apps.reports.urls')),
 		path('attachment/', include('apps.attachment.urls')),
+		path('azienda/', include('apps.azienda.urls')),
 	
 	
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

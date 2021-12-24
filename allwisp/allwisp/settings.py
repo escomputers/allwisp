@@ -67,6 +67,7 @@ INSTALLED_APPS = [
     'apps.reports.apps.ReportsConfig',
     'apps.expenses.apps.ExpensesConfig',
     'apps.attachment.apps.AttachmentConfig',
+    'apps.azienda.apps.AziendaConfig',
     'commonviews.apps.CommonviewsConfig',
     'localflavor',
     'internationalflavor', 
