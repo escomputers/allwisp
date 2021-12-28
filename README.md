@@ -1,6 +1,6 @@
 # Features
 
-In progress
+In progresso
 
 # Demo
 
@@ -33,7 +33,7 @@ VIRTUAL ENV
 
 cd $HOME
 
-git clone https://github.com/escomputers/allwisp.git
+git clone -b develop_secondario https://github.com/escomputers/allwisp.git
 
 #token expiring 13th March 2022
 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

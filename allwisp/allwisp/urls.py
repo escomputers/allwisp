@@ -1,18 +1,4 @@
-"""allwisp URL Configuration
 
-The `urlpatterns` list routes URLs to views. For more information please see:
-    https://docs.djangoproject.com/en/3.2/topics/http/urls/
-Examples:
-Function views
-    1. Add an import:  from my_app import views
-    2. Add a URL to urlpatterns:  path('', views.home, name='home')
-Class-based views
-    1. Add an import:  from other_app.views import Home
-    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
-Including another URLconf
-    1. Import the include() function: from django.urls import include, path
-    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
-"""
 from django.views.generic import TemplateView
 from django.contrib.auth import views as auth_views
 from django.conf import settings
@@ -34,7 +20,15 @@ urlpatterns = [
 	#aggiunta per pagina verifica copertura
 	#path('copertura/', TemplateView.as_view(template_name="mappa.html"), name="copertura"),
 	#cms urls
-	re_path(r'^', include('cms.urls'))
+	re_path(r'^', include('cms.urls')),
+	# # # url main
+    	path('customer/', include('apps.customer.urls')),
+		path('invoice/', include('apps.invoices.urls')),
+		path('expenses/', include('apps.expenses.urls')),
+		path('items/', include('apps.items.urls')),
+		path('accounting/', include('apps.reports.urls')),
+		path('attachment/', include('apps.attachment.urls')),
+		path('azienda/', include('apps.azienda.urls')),
 	
 	
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

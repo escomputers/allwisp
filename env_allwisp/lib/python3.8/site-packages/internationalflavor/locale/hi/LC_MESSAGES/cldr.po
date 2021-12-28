@@ -1,0 +1,5863 @@
+#
+msgid ""
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "world"
+msgstr "विश्व"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Africa"
+msgstr "अफ़्रीका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "North America"
+msgstr "उत्तर अमेरिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South America"
+msgstr "दक्षिण अमेरिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Oceania"
+msgstr "ओशिआनिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Africa"
+msgstr "पश्चिमी अफ़्रीका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central America"
+msgstr "मध्य अमेरिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eastern Africa"
+msgstr "पूर्वी अफ़्रीका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northern Africa"
+msgstr "उत्तरी अफ़्रीका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Middle Africa"
+msgstr "मध्य अफ़्रीका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Southern Africa"
+msgstr "दक्षिणी अफ़्रीका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Americas"
+msgstr "अमेरिकाज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northern America"
+msgstr "उत्तरी अमेरिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Caribbean"
+msgstr "कैरिबियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eastern Asia"
+msgstr "पूर्वी एशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Southern Asia"
+msgstr "दक्षिणी एशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Southeast Asia"
+msgstr "दक्षिण-पूर्व एशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Southern Europe"
+msgstr "दक्षिणी यूरोप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Australasia"
+msgstr "ऑस्ट्रेलेशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Melanesia"
+msgstr "मेलानेशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Micronesian Region"
+msgstr "माइक्रोनेशियाई क्षेत्र"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Polynesia"
+msgstr "पोलिनेशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Asia"
+msgstr "एशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Asia"
+msgstr "मध्य एशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Asia"
+msgstr "पश्चिमी एशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Europe"
+msgstr "यूरोप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eastern Europe"
+msgstr "पूर्वी यूरोप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northern Europe"
+msgstr "उत्तरी यूरोप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Europe"
+msgstr "पश्चिमी यूरोप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sub-Saharan Africa"
+msgstr "उप-सहारा अफ़्रीका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Latin America"
+msgstr "लैटिन अमेरिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ascension Island"
+msgstr "असेंशन द्वीप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Andorra"
+msgstr "एंडोरा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "United Arab Emirates"
+msgstr "संयुक्त अरब अमीरात"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Afghanistan"
+msgstr "अफ़गानिस्तान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Antigua & Barbuda"
+msgstr "एंटिगुआ और बरबुडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Anguilla"
+msgstr "एंग्विला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Albania"
+msgstr "अल्बानिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Armenia"
+msgstr "आर्मेनिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Angola"
+msgstr "अंगोला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Antarctica"
+msgstr "अंटार्कटिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Argentina"
+msgstr "अर्जेंटीना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "American Samoa"
+msgstr "अमेरिकी समोआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Austria"
+msgstr "ऑस्ट्रिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Australia"
+msgstr "ऑस्ट्रेलिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aruba"
+msgstr "अरूबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Åland Islands"
+msgstr "एलैंड द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Azerbaijan"
+msgstr "अज़रबैजान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bosnia & Herzegovina"
+msgstr "बोस्निया और हर्ज़ेगोविना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Barbados"
+msgstr "बारबाडोस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bangladesh"
+msgstr "बांग्लादेश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Belgium"
+msgstr "बेल्जियम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Burkina Faso"
+msgstr "बुर्किना फ़ासो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bulgaria"
+msgstr "बुल्गारिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bahrain"
+msgstr "बहरीन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Burundi"
+msgstr "बुरुंडी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Benin"
+msgstr "बेनिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Barthélemy"
+msgstr "सेंट बार्थेलेमी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bermuda"
+msgstr "बरमूडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brunei"
+msgstr "ब्रूनेई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bolivia"
+msgstr "बोलीविया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Caribbean Netherlands"
+msgstr "कैरिबियन नीदरलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brazil"
+msgstr "ब्राज़ील"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bahamas"
+msgstr "बहामास"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bhutan"
+msgstr "भूटान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bouvet Island"
+msgstr "बोवेत द्वीप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Botswana"
+msgstr "बोत्स्वाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Belarus"
+msgstr "बेलारूस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Belize"
+msgstr "बेलीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Canada"
+msgstr "कनाडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cocos (Keeling) Islands"
+msgstr "कोकोस (कीलिंग) द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Congo - Kinshasa"
+msgstr "कांगो - किंशासा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central African Republic"
+msgstr "मध्य अफ़्रीकी गणराज्य"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Congo - Brazzaville"
+msgstr "कांगो – ब्राज़ाविल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Switzerland"
+msgstr "स्विट्ज़रलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Côte d’Ivoire"
+msgstr "कोट डी आइवर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cook Islands"
+msgstr "कुक द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chile"
+msgstr "चिली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cameroon"
+msgstr "कैमरून"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "China"
+msgstr "चीन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Colombia"
+msgstr "कोलंबिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Clipperton Island"
+msgstr "क्लिपर्टन द्वीप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Costa Rica"
+msgstr "कोस्टारिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cuba"
+msgstr "क्यूबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cape Verde"
+msgstr "केप वर्ड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Curaçao"
+msgstr "क्यूरासाओ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Christmas Island"
+msgstr "क्रिसमस द्वीप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cyprus"
+msgstr "साइप्रस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Czechia"
+msgstr "चेकिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Germany"
+msgstr "जर्मनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Diego Garcia"
+msgstr "डिएगो गार्सिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Djibouti"
+msgstr "जिबूती"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Denmark"
+msgstr "डेनमार्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dominica"
+msgstr "डोमिनिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dominican Republic"
+msgstr "डोमिनिकन गणराज्य"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Algeria"
+msgstr "अल्जीरिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ceuta & Melilla"
+msgstr "सेउटा और मेलिला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ecuador"
+msgstr "इक्वाडोर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Estonia"
+msgstr "एस्टोनिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Egypt"
+msgstr "मिस्र"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Sahara"
+msgstr "पश्चिमी सहारा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eritrea"
+msgstr "इरिट्रिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Spain"
+msgstr "स्पेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ethiopia"
+msgstr "इथियोपिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "European Union"
+msgstr "यूरोपीय संघ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eurozone"
+msgstr "यूरोज़ोन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Finland"
+msgstr "फ़िनलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fiji"
+msgstr "फ़िजी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Falkland Islands"
+msgstr "फ़ॉकलैंड द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Micronesia"
+msgstr "माइक्रोनेशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Faroe Islands"
+msgstr "फ़ेरो द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "France"
+msgstr "फ़्रांस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gabon"
+msgstr "गैबॉन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "United Kingdom"
+msgstr "यूनाइटेड किंगडम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Grenada"
+msgstr "ग्रेनाडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Georgia"
+msgstr "जॉर्जिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "French Guiana"
+msgstr "फ़्रेंच गुयाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guernsey"
+msgstr "गर्नसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ghana"
+msgstr "घाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gibraltar"
+msgstr "जिब्राल्टर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Greenland"
+msgstr "ग्रीनलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gambia"
+msgstr "गाम्बिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guinea"
+msgstr "गिनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guadeloupe"
+msgstr "ग्वाडेलूप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Equatorial Guinea"
+msgstr "इक्वेटोरियल गिनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Greece"
+msgstr "यूनान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South Georgia & South Sandwich Islands"
+msgstr "दक्षिण जॉर्जिया और दक्षिण सैंडविच द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guatemala"
+msgstr "ग्वाटेमाला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guam"
+msgstr "गुआम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guinea-Bissau"
+msgstr "गिनी-बिसाउ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guyana"
+msgstr "गुयाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hong Kong"
+msgstr "हाँग काँग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Heard & McDonald Islands"
+msgstr "हर्ड द्वीप और मैकडोनॉल्ड द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Honduras"
+msgstr "होंडूरास"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Croatia"
+msgstr "क्रोएशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Haiti"
+msgstr "हैती"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hungary"
+msgstr "हंगरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Canary Islands"
+msgstr "कैनेरी द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Indonesia"
+msgstr "इंडोनेशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ireland"
+msgstr "आयरलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Israel"
+msgstr "इज़राइल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Isle of Man"
+msgstr "आइल ऑफ़ मैन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "India"
+msgstr "भारत"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "British Indian Ocean Territory"
+msgstr "ब्रिटिश हिंद महासागरीय क्षेत्र"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Iraq"
+msgstr "इराक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Iran"
+msgstr "ईरान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Iceland"
+msgstr "आइसलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Italy"
+msgstr "इटली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jersey"
+msgstr "जर्सी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jamaica"
+msgstr "जमैका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jordan"
+msgstr "जॉर्डन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Japan"
+msgstr "जापान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kenya"
+msgstr "केन्या"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kyrgyzstan"
+msgstr "किर्गिज़स्तान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cambodia"
+msgstr "कंबोडिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kiribati"
+msgstr "किरिबाती"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Comoros"
+msgstr "कोमोरोस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Kitts & Nevis"
+msgstr "सेंट किट्स और नेविस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "North Korea"
+msgstr "उत्तर कोरिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South Korea"
+msgstr "दक्षिण कोरिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kuwait"
+msgstr "कुवैत"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cayman Islands"
+msgstr "कैमेन द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kazakhstan"
+msgstr "कज़ाखस्तान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Laos"
+msgstr "लाओस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lebanon"
+msgstr "लेबनान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Lucia"
+msgstr "सेंट लूसिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Liechtenstein"
+msgstr "लिचेंस्टीन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sri Lanka"
+msgstr "श्रीलंका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Liberia"
+msgstr "लाइबेरिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lesotho"
+msgstr "लेसोथो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lithuania"
+msgstr "लिथुआनिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Luxembourg"
+msgstr "लग्ज़मबर्ग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Latvia"
+msgstr "लातविया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Libya"
+msgstr "लीबिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Morocco"
+msgstr "मोरक्को"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Monaco"
+msgstr "मोनाको"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Moldova"
+msgstr "मॉल्डोवा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Montenegro"
+msgstr "मोंटेनेग्रो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Martin"
+msgstr "सेंट मार्टिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Madagascar"
+msgstr "मेडागास्कर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marshall Islands"
+msgstr "मार्शल द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "North Macedonia"
+msgstr "उत्तरी मकदूनिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mali"
+msgstr "माली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Myanmar (Burma)"
+msgstr "म्यांमार (बर्मा)"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mongolia"
+msgstr "मंगोलिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Macao"
+msgstr "मकाऊ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northern Mariana Islands"
+msgstr "उत्तरी मारियाना द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Martinique"
+msgstr "मार्टीनिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mauritania"
+msgstr "मॉरिटानिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Montserrat"
+msgstr "मोंटसेरात"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Malta"
+msgstr "माल्टा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mauritius"
+msgstr "मॉरीशस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maldives"
+msgstr "मालदीव"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Malawi"
+msgstr "मलावी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mexico"
+msgstr "मैक्सिको"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Malaysia"
+msgstr "मलेशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mozambique"
+msgstr "मोज़ांबिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Namibia"
+msgstr "नामीबिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "New Caledonia"
+msgstr "न्यू कैलेडोनिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Niger"
+msgstr "नाइजर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Norfolk Island"
+msgstr "नॉरफ़ॉक द्वीप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nigeria"
+msgstr "नाइजीरिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nicaragua"
+msgstr "निकारागुआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Netherlands"
+msgstr "नीदरलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Norway"
+msgstr "नॉर्वे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nepal"
+msgstr "नेपाल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nauru"
+msgstr "नाउरु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Niue"
+msgstr "नीयू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "New Zealand"
+msgstr "न्यूज़ीलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Oman"
+msgstr "ओमान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Panama"
+msgstr "पनामा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Peru"
+msgstr "पेरू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "French Polynesia"
+msgstr "फ़्रेंच पोलिनेशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Papua New Guinea"
+msgstr "पापुआ न्यू गिनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Philippines"
+msgstr "फ़िलिपींस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pakistan"
+msgstr "पाकिस्तान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Poland"
+msgstr "पोलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Pierre & Miquelon"
+msgstr "सेंट पिएरे और मिक्वेलान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pitcairn Islands"
+msgstr "पिटकैर्न द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Puerto Rico"
+msgstr "पोर्टो रिको"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Palestine"
+msgstr "फ़िलिस्तीन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Portugal"
+msgstr "पुर्तगाल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Palau"
+msgstr "पलाऊ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Paraguay"
+msgstr "पराग्वे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Qatar"
+msgstr "क़तर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Outlying Oceania"
+msgstr "आउटलाइंग ओशिनिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Réunion"
+msgstr "रियूनियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Romania"
+msgstr "रोमानिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Serbia"
+msgstr "सर्बिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Russia"
+msgstr "रूस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rwanda"
+msgstr "रवांडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Saudi Arabia"
+msgstr "सऊदी अरब"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Solomon Islands"
+msgstr "सोलोमन द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Seychelles"
+msgstr "सेशेल्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sudan"
+msgstr "सूडान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sweden"
+msgstr "स्वीडन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Singapore"
+msgstr "सिंगापुर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Helena"
+msgstr "सेंट हेलेना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Slovenia"
+msgstr "स्लोवेनिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Svalbard & Jan Mayen"
+msgstr "स्वालबार्ड और जान मायेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Slovakia"
+msgstr "स्लोवाकिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sierra Leone"
+msgstr "सिएरा लियोन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "San Marino"
+msgstr "सैन मेरीनो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Senegal"
+msgstr "सेनेगल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Somalia"
+msgstr "सोमालिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Suriname"
+msgstr "सूरीनाम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South Sudan"
+msgstr "दक्षिण सूडान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "São Tomé & Príncipe"
+msgstr "साओ टोम और प्रिंसिपे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "El Salvador"
+msgstr "अल सल्वाडोर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sint Maarten"
+msgstr "सिंट मार्टिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Syria"
+msgstr "सीरिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eswatini"
+msgstr "स्वाज़ीलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tristan da Cunha"
+msgstr "ट्रिस्टन दा कुना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Turks & Caicos Islands"
+msgstr "तुर्क और कैकोज़ द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chad"
+msgstr "चाड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "French Southern Territories"
+msgstr "फ़्रांसीसी दक्षिणी क्षेत्र"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Togo"
+msgstr "टोगो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Thailand"
+msgstr "थाईलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tajikistan"
+msgstr "ताज़िकिस्तान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tokelau"
+msgstr "तोकेलाउ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Timor-Leste"
+msgstr "तिमोर-लेस्त"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Turkmenistan"
+msgstr "तुर्कमेनिस्तान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tunisia"
+msgstr "ट्यूनीशिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tonga"
+msgstr "टोंगा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Turkey"
+msgstr "तुर्की"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Trinidad & Tobago"
+msgstr "त्रिनिदाद और टोबैगो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tuvalu"
+msgstr "तुवालू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Taiwan"
+msgstr "ताइवान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tanzania"
+msgstr "तंज़ानिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ukraine"
+msgstr "यूक्रेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uganda"
+msgstr "युगांडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "U.S. Outlying Islands"
+msgstr "यू॰एस॰ आउटलाइंग द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "United Nations"
+msgstr "संयुक्त राष्ट्र"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "United States"
+msgstr "संयुक्त राज्य"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uruguay"
+msgstr "उरूग्वे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uzbekistan"
+msgstr "उज़्बेकिस्तान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vatican City"
+msgstr "वेटिकन सिटी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Vincent & Grenadines"
+msgstr "सेंट विंसेंट और ग्रेनाडाइंस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Venezuela"
+msgstr "वेनेज़ुएला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "British Virgin Islands"
+msgstr "ब्रिटिश वर्जिन द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "U.S. Virgin Islands"
+msgstr "यू॰एस॰ वर्जिन द्वीपसमूह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vietnam"
+msgstr "वियतनाम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vanuatu"
+msgstr "वनुआतू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wallis & Futuna"
+msgstr "वालिस और फ़्यूचूना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samoa"
+msgstr "समोआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pseudo-Accents"
+msgstr "सूडो-एक्सेंट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pseudo-Bidi"
+msgstr "सूडो-बायडायरेक्शनल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kosovo"
+msgstr "कोसोवो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yemen"
+msgstr "यमन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mayotte"
+msgstr "मायोते"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South Africa"
+msgstr "दक्षिण अफ़्रीका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zambia"
+msgstr "ज़ाम्बिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zimbabwe"
+msgstr "ज़िम्बाब्वे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Unknown Region"
+msgstr "अज्ञात क्षेत्र"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Afar"
+msgstr "अफ़ार"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Abkhazian"
+msgstr "अब्ख़ाज़ियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Achinese"
+msgstr "अचाइनीस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Acoli"
+msgstr "अकोली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Adangme"
+msgstr "अदान्गमे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Adyghe"
+msgstr "अदिघे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Avestan"
+msgstr "अवस्ताई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tunisian Arabic"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Afrikaans"
+msgstr "अफ़्रीकी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Afrihili"
+msgstr "अफ्रिहिली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aghem"
+msgstr "अग्हेम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ainu"
+msgstr "ऐनू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Akan"
+msgstr "अकन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Akkadian"
+msgstr "अक्कादी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Alabama"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aleut"
+msgstr "अलेउत"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gheg Albanian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Southern Altai"
+msgstr "दक्षिणी अल्ताई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Amharic"
+msgstr "अम्हेरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aragonese"
+msgstr "अर्गोनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Old English"
+msgstr "पुरानी अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Angika"
+msgstr "अंगिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Arabic"
+msgstr "अरबी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Modern Standard Arabic"
+msgstr "आधुनिक मानक अरबी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aramaic"
+msgstr "ऐरेमेक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mapuche"
+msgstr "मापूचे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Araona"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Arapaho"
+msgstr "अरापाहो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Algerian Arabic"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Najdi Arabic"
+msgstr "नज्दी अरबी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Arabic, Najdi"
+msgstr "अरबी, नज्दी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Arawak"
+msgstr "अरावक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Moroccan Arabic"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Egyptian Arabic"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Assamese"
+msgstr "असमिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Asu"
+msgstr "असु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "American Sign Language"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Asturian"
+msgstr "अस्तुरियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Avaric"
+msgstr "अवेरिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kotava"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Awadhi"
+msgstr "अवधी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aymara"
+msgstr "आयमारा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Azerbaijani"
+msgstr "अज़रबैजानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Azeri"
+msgstr "अज़ेरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bashkir"
+msgstr "बशख़िर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Baluchi"
+msgstr "बलूची"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Balinese"
+msgstr "बालिनीस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bavarian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Basaa"
+msgstr "बसा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bamun"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Batak Toba"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ghomala"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Belarusian"
+msgstr "बेलारूसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Beja"
+msgstr "बेजा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bemba"
+msgstr "बेम्बा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Betawi"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bena"
+msgstr "बेना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bafut"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Badaga"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bulgarian"
+msgstr "बुल्गारियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Balochi"
+msgstr "पश्चिमी बलोची"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bhojpuri"
+msgstr "भोजपुरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bislama"
+msgstr "बिस्लामा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bikol"
+msgstr "बिकोल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bini"
+msgstr "बिनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Banjar"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kom"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Siksika"
+msgstr "सिक्सिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bambara"
+msgstr "बाम्बारा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bangla"
+msgstr "बंगाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tibetan"
+msgstr "तिब्बती"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bishnupriya"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bakhtiari"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Breton"
+msgstr "ब्रेटन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Braj"
+msgstr "ब्रज"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brahui"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bodo"
+msgstr "बोडो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bosnian"
+msgstr "बोस्नियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Akoose"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Buriat"
+msgstr "बुरियात"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Buginese"
+msgstr "बगिनीस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bulu"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Blin"
+msgstr "ब्लिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Medumba"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Catalan"
+msgstr "कातालान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Caddo"
+msgstr "कैड्डो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Carib"
+msgstr "कैरिब"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cayuga"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Atsam"
+msgstr "अत्सम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chakma"
+msgstr "चकमा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chechen"
+msgstr "चेचन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cebuano"
+msgstr "सिबुआनो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chiga"
+msgstr "शिगा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chamorro"
+msgstr "कमोरो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chibcha"
+msgstr "चिब्चा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chagatai"
+msgstr "छगाताई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chuukese"
+msgstr "चूकीस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mari"
+msgstr "मारी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chinook Jargon"
+msgstr "चिनूक जारगॉन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Choctaw"
+msgstr "चोक्तौ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chipewyan"
+msgstr "शिपेव्यान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cherokee"
+msgstr "चेरोकी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cheyenne"
+msgstr "शेयेन्न"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chickasaw"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Kurdish"
+msgstr "सोरानी कुर्दिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kurdish, Central"
+msgstr "कुर्दी, सोरानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kurdish, Sorani"
+msgstr "सोरानी कुर्दिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Corsican"
+msgstr "कोर्सीकन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Coptic"
+msgstr "कॉप्टिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Capiznon"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cree"
+msgstr "क्री"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Crimean Turkish"
+msgstr "क्रीमीन तुर्की"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Seselwa Creole French"
+msgstr "सेसेल्वा क्रिओल फ्रेंच"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Czech"
+msgstr "चेक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kashubian"
+msgstr "काशुबियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Church Slavic"
+msgstr "चर्च साल्विक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chuvash"
+msgstr "चूवाश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Welsh"
+msgstr "वेल्श"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Danish"
+msgstr "डेनिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dakota"
+msgstr "दाकोता"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dargwa"
+msgstr "दार्गवा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Taita"
+msgstr "तैता"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "German"
+msgstr "जर्मन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Austrian German"
+msgstr "ऑस्ट्रियाई जर्मन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Swiss High German"
+msgstr "स्विस उच्च जर्मन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Delaware"
+msgstr "डिलैवेयर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Slave"
+msgstr "स्लेव"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dogrib"
+msgstr "डोग्रिब"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dinka"
+msgstr "दिन्का"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zarma"
+msgstr "झार्मा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dogri"
+msgstr "डोग्री"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lower Sorbian"
+msgstr "निचला सॉर्बियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Dusun"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Duala"
+msgstr "दुआला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Middle Dutch"
+msgstr "मध्यकालीन पुर्तगाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Divehi"
+msgstr "दिवेही"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jola-Fonyi"
+msgstr "जोला-फोंई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dyula"
+msgstr "ड्युला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dzongkha"
+msgstr "ज़ोन्गखा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dazaga"
+msgstr "दज़ागा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Embu"
+msgstr "एम्बु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ewe"
+msgstr "ईवे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Efik"
+msgstr "एफिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Emilian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ancient Egyptian"
+msgstr "प्राचीन मिस्री"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ekajuk"
+msgstr "एकाजुक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Greek"
+msgstr "यूनानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Elamite"
+msgstr "एलामाइट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "English"
+msgstr "अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Australian English"
+msgstr "ऑस्ट्रेलियाई अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Canadian English"
+msgstr "कनाडाई अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "British English"
+msgstr "ब्रिटिश अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "UK English"
+msgstr "यू॰के॰ अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "American English"
+msgstr "अमेरिकी अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "US English"
+msgstr "अमेरिकी अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Middle English"
+msgstr "मध्यकालीन अंग्रेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Esperanto"
+msgstr "एस्पेरेंतो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Spanish"
+msgstr "स्पेनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Latin American Spanish"
+msgstr "लैटिन अमेरिकी स्पेनिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "European Spanish"
+msgstr "यूरोपीय स्पेनिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mexican Spanish"
+msgstr "मैक्सिकन स्पेनिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Yupik"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Estonian"
+msgstr "एस्टोनियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Basque"
+msgstr "बास्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ewondo"
+msgstr "इवोन्डो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Extremaduran"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Persian"
+msgstr "फ़ारसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dari"
+msgstr "दारी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fang"
+msgstr "फैन्ग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fanti"
+msgstr "फन्टी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fulah"
+msgstr "फुलाह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Finnish"
+msgstr "फ़िनिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Filipino"
+msgstr "फ़िलिपीनो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tornedalen Finnish"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fijian"
+msgstr "फिजियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Faroese"
+msgstr "फ़ैरोइज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fon"
+msgstr "फॉन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "French"
+msgstr "फ़्रेंच"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Canadian French"
+msgstr "कनाडाई फ़्रेंच"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Swiss French"
+msgstr "स्विस फ़्रेंच"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cajun French"
+msgstr "केजन फ़्रेंच"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Middle French"
+msgstr "मध्यकालीन फ़्रांसीसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Old French"
+msgstr "पुरातन फ़्रांसीसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Arpitan"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northern Frisian"
+msgstr "उत्तरी फ़्रीसियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eastern Frisian"
+msgstr "पूर्वी फ़्रीसियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Friulian"
+msgstr "फ्रीयुलीयान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Frisian"
+msgstr "पश्चिमी फ़्रिसियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Irish"
+msgstr "आयरिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ga"
+msgstr "गा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gagauz"
+msgstr "गागौज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gan Chinese"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gayo"
+msgstr "गायो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gbaya"
+msgstr "ग्बाया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zoroastrian Dari"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Scottish Gaelic"
+msgstr "स्कॉटिश गाएलिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Geez"
+msgstr "गीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gilbertese"
+msgstr "गिल्बरतीस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Galician"
+msgstr "गैलिशियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gilaki"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Middle High German"
+msgstr "मध्यकालीन हाइ जर्मन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guarani"
+msgstr "गुआरानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Old High German"
+msgstr "पुरातन हाइ जर्मन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Goan Konkani"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gondi"
+msgstr "गाँडी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gorontalo"
+msgstr "गोरोन्तालो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gothic"
+msgstr "गॉथिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Grebo"
+msgstr "ग्रेबो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ancient Greek"
+msgstr "प्राचीन यूनानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Swiss German"
+msgstr "स्विस जर्मन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gujarati"
+msgstr "गुजराती"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wayuu"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Frafra"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gusii"
+msgstr "गुसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Manx"
+msgstr "मैंक्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gwichʼin"
+msgstr "ग्विचइन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hausa"
+msgstr "हौसा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Haida"
+msgstr "हैडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hakka Chinese"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hawaiian"
+msgstr "हवाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hebrew"
+msgstr "हिब्रू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hindi"
+msgstr "हिन्दी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fiji Hindi"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hiligaynon"
+msgstr "हिलिगेनन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hittite"
+msgstr "हिताइत"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hmong"
+msgstr "ह्मॉंग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hiri Motu"
+msgstr "हिरी मोटू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Croatian"
+msgstr "क्रोएशियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Upper Sorbian"
+msgstr "ऊपरी सॉर्बियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Xiang Chinese"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Haitian Creole"
+msgstr "हैतियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hungarian"
+msgstr "हंगेरियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hupa"
+msgstr "हूपा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Armenian"
+msgstr "आर्मेनियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Herero"
+msgstr "हरैरो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Interlingua"
+msgstr "इंटरलिंगुआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Iban"
+msgstr "इबान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ibibio"
+msgstr "इबिबियो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Indonesian"
+msgstr "इंडोनेशियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Interlingue"
+msgstr "ईन्टरलिंगुइ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Igbo"
+msgstr "ईग्बो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sichuan Yi"
+msgstr "सिचुआन यी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Inupiaq"
+msgstr "इनुपियाक्"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Iloko"
+msgstr "इलोको"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ingush"
+msgstr "इंगुश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ido"
+msgstr "इडौ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Icelandic"
+msgstr "आइसलैंडिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Italian"
+msgstr "इतालवी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Inuktitut"
+msgstr "इनूकीटूत्"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ingrian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Japanese"
+msgstr "जापानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jamaican Creole English"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lojban"
+msgstr "लोज्बान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ngomba"
+msgstr "नगोंबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Machame"
+msgstr "मैकहैमे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Judeo-Persian"
+msgstr "जुदेओ-पर्शियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Judeo-Arabic"
+msgstr "जुदेओ-अरेबिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jutish"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Javanese"
+msgstr "जावानीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Georgian"
+msgstr "जॉर्जियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kara-Kalpak"
+msgstr "कारा-कल्पक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kabyle"
+msgstr "कबाइल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kachin"
+msgstr "काचिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jju"
+msgstr "ज्जु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kamba"
+msgstr "कम्बा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kawi"
+msgstr "कावी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kabardian"
+msgstr "कबार्डियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kanembu"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tyap"
+msgstr "त्याप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Makonde"
+msgstr "मैकोंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kabuverdianu"
+msgstr "काबुवेर्दियानु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kenyang"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Koro"
+msgstr "कोरो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kongo"
+msgstr "कोंगो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kaingang"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Khasi"
+msgstr "खासी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Khotanese"
+msgstr "खोतानीस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Koyra Chiini"
+msgstr "कोयरा चीनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Khowar"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kikuyu"
+msgstr "किकुयू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kirmanjki"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kuanyama"
+msgstr "क्वान्यामा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kazakh"
+msgstr "कज़ाख़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kako"
+msgstr "काको"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kalaallisut"
+msgstr "कलालीसुत"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kalenjin"
+msgstr "कलेंजिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Khmer"
+msgstr "खमेर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kimbundu"
+msgstr "किम्बन्दु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kannada"
+msgstr "कन्नड़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Korean"
+msgstr "कोरियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Komi-Permyak"
+msgstr "कोमी-पर्मयाक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Konkani"
+msgstr "कोंकणी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kosraean"
+msgstr "कोसरैन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kpelle"
+msgstr "क्पेल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kanuri"
+msgstr "कनुरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Karachay-Balkar"
+msgstr "कराचय-बल्कार"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Krio"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kinaray-a"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Karelian"
+msgstr "करेलियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kurukh"
+msgstr "कुरूख"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kashmiri"
+msgstr "कश्मीरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Shambala"
+msgstr "शम्बाला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bafia"
+msgstr "बफिआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Colognian"
+msgstr "कोलोनियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kurdish"
+msgstr "कुर्दिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kumyk"
+msgstr "कुमीक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kutenai"
+msgstr "क्यूतनाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Komi"
+msgstr "कोमी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cornish"
+msgstr "कोर्निश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kyrgyz"
+msgstr "किर्गीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kirghiz"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Latin"
+msgstr "लैटिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ladino"
+msgstr "लादीनो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Langi"
+msgstr "लांगि"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lahnda"
+msgstr "लाह्न्डा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lamba"
+msgstr "लाम्बा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Luxembourgish"
+msgstr "लग्ज़मबर्गी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lezghian"
+msgstr "लेज़्घीयन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lingua Franca Nova"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ganda"
+msgstr "गांडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Limburgish"
+msgstr "लिंबर्गिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ligurian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Livonian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lakota"
+msgstr "लैकोटा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lombard"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lingala"
+msgstr "लिंगाला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lao"
+msgstr "लाओ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mongo"
+msgstr "मोंगो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Louisiana Creole"
+msgstr "लुईज़ियाना क्रियोल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lozi"
+msgstr "लोज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northern Luri"
+msgstr "उत्तरी लूरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lithuanian"
+msgstr "लिथुआनियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Latgalian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Luba-Katanga"
+msgstr "ल्यूबा-कटांगा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Luba-Lulua"
+msgstr "ल्यूबा-लुलुआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Luiseno"
+msgstr "लुइसेनो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lunda"
+msgstr "लुन्डा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Luo"
+msgstr "ल्युओ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mizo"
+msgstr "मिज़ो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Luyia"
+msgstr "ल्युईआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Latvian"
+msgstr "लातवियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Literary Chinese"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Laz"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Madurese"
+msgstr "मादुरीस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mafa"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Magahi"
+msgstr "मगही"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maithili"
+msgstr "मैथिली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Makasar"
+msgstr "मकासर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mandingo"
+msgstr "मन्डिन्गो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Masai"
+msgstr "मसाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maba"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Moksha"
+msgstr "मोक्ष"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mandar"
+msgstr "मंदार"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mende"
+msgstr "मेन्डे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Meru"
+msgstr "मेरु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Morisyen"
+msgstr "मोरीस्येन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Malagasy"
+msgstr "मालागासी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Middle Irish"
+msgstr "मध्यकालीन आइरिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Makhuwa-Meetto"
+msgstr "मैखुवा-मीट्टो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Metaʼ"
+msgstr "मेटा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marshallese"
+msgstr "मार्शलीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maori"
+msgstr "माओरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mi'kmaq"
+msgstr "मिकमैक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Minangkabau"
+msgstr "मिनांग्काबाउ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Macedonian"
+msgstr "मकदूनियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Malayalam"
+msgstr "मलयालम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mongolian"
+msgstr "मंगोलियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Manchu"
+msgstr "मन्चु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Manipuri"
+msgstr "मणिपुरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mohawk"
+msgstr "मोहौक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mossi"
+msgstr "मोस्सी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marathi"
+msgstr "मराठी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Mari"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Malay"
+msgstr "मलय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maltese"
+msgstr "माल्टीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mundang"
+msgstr "मुंडैंग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Multiple languages"
+msgstr "एकाधिक भाषाएँ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Muscogee"
+msgstr "क्रीक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mirandese"
+msgstr "मिरांडी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marwari"
+msgstr "मारवाड़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mentawai"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Burmese"
+msgstr "बर्मीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Myanmar Language"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Myene"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Erzya"
+msgstr "एर्ज़या"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mazanderani"
+msgstr "माज़न्देरानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Min Nan Chinese"
+msgstr "मिन नान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Neapolitan"
+msgstr "नीपोलिटन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nama"
+msgstr "नामा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Norwegian Bokmål"
+msgstr "नॉर्वेजियाई बोकमाल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "North Ndebele"
+msgstr "उत्तरी देबेल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Low German"
+msgstr "निचला जर्मन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Low Saxon"
+msgstr "निचली सैक्सन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nepali"
+msgstr "नेपाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Newari"
+msgstr "नेवाड़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ndonga"
+msgstr "डोन्गा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nias"
+msgstr "नियास"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Niuean"
+msgstr "नियुआन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ao Naga"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dutch"
+msgstr "डच"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Flemish"
+msgstr "फ़्लेमिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kwasio"
+msgstr "क्वासिओ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Norwegian Nynorsk"
+msgstr "नॉर्वेजियाई नॉयनॉर्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ngiemboon"
+msgstr "गैम्बू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Norwegian"
+msgstr "नॉर्वेजियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nogai"
+msgstr "नोगाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Old Norse"
+msgstr "पुराना नॉर्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Novial"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "N’Ko"
+msgstr "एन्को"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South Ndebele"
+msgstr "दक्षिण देबेल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northern Sotho"
+msgstr "उत्तरी सोथो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nuer"
+msgstr "नुएर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Navajo"
+msgstr "नावाजो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Classical Newari"
+msgstr "पारम्परिक नेवारी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nyanja"
+msgstr "न्यानजा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nyamwezi"
+msgstr "न्यामवेज़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nyankole"
+msgstr "न्यानकोल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nyoro"
+msgstr "न्योरो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nzima"
+msgstr "न्ज़ीमा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Occitan"
+msgstr "ओसीटान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ojibwa"
+msgstr "ओजिब्वा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Oromo"
+msgstr "ओरोमो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Odia"
+msgstr "उड़िया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ossetic"
+msgstr "ओस्सेटिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Osage"
+msgstr "ओसेज"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ottoman Turkish"
+msgstr "ओटोमान तुर्किश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Punjabi"
+msgstr "पंजाबी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pangasinan"
+msgstr "पंगासीनान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pahlavi"
+msgstr "पाह्लावी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pampanga"
+msgstr "पाम्पान्गा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Papiamento"
+msgstr "पापियामेन्टो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Palauan"
+msgstr "पलोउआन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Picard"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nigerian Pidgin"
+msgstr "नाइजीरियाई पिडगिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pennsylvania German"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Plautdietsch"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Old Persian"
+msgstr "पुरानी फारसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Palatine German"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Phoenician"
+msgstr "फोएनिशियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pali"
+msgstr "पाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Polish"
+msgstr "पोलिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Piedmontese"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pontic"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pohnpeian"
+msgstr "पोह्नपिएन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Prussian"
+msgstr "प्रुशियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Old Provençal"
+msgstr "पुरानी प्रोवेन्सल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pashto"
+msgstr "पश्तो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pushto"
+msgstr "पुश्तो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Portuguese"
+msgstr "पुर्तगाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brazilian Portuguese"
+msgstr "ब्राज़ीली पुर्तगाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "European Portuguese"
+msgstr "यूरोपीय पुर्तगाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Quechua"
+msgstr "क्वेचुआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kʼicheʼ"
+msgstr "किश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chimborazo Highland Quichua"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rajasthani"
+msgstr "राजस्थानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rapanui"
+msgstr "रापानुई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rarotongan"
+msgstr "रारोतोंगन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Romagnol"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Riffian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Romansh"
+msgstr "रोमान्श"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rundi"
+msgstr "रुन्दी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Romanian"
+msgstr "रोमानियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Moldavian"
+msgstr "मोलडावियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rombo"
+msgstr "रोम्बो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Romany"
+msgstr "रोमानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rotuman"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Russian"
+msgstr "रूसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rusyn"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Roviana"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aromanian"
+msgstr "अरोमानियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kinyarwanda"
+msgstr "किन्यारवांडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rwa"
+msgstr "रवा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sanskrit"
+msgstr "संस्कृत"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sandawe"
+msgstr "सन्डावे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sakha"
+msgstr "याकूत"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samaritan Aramaic"
+msgstr "सामैरिटन अरैमिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samburu"
+msgstr "सैम्बुरु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sasak"
+msgstr "सासाक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Santali"
+msgstr "संथाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Saurashtra"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ngambay"
+msgstr "न्गाम्बे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sangu"
+msgstr "सैंगु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sardinian"
+msgstr "सार्दिनियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sicilian"
+msgstr "सिसिलियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Scots"
+msgstr "स्कॉट्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sindhi"
+msgstr "सिंधी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sassarese Sardinian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Southern Kurdish"
+msgstr "दक्षिणी कार्डिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northern Sami"
+msgstr "नॉर्दन सामी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Seneca"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sena"
+msgstr "सेना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Seri"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Selkup"
+msgstr "सेल्कप"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Koyraboro Senni"
+msgstr "कोयराबोरो सेन्नी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sango"
+msgstr "सांगो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Old Irish"
+msgstr "पुरानी आइरिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samogitian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Serbo-Croatian"
+msgstr "सेर्बो-क्रोएशियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tachelhit"
+msgstr "तैचेल्हित"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Shan"
+msgstr "शैन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chadian Arabic"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sinhala"
+msgstr "सिंहली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sidamo"
+msgstr "सिदामो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Slovak"
+msgstr "स्लोवाक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Slovenian"
+msgstr "स्लोवेनियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lower Silesian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Selayar"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samoan"
+msgstr "सामोन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Southern Sami"
+msgstr "दक्षिणी सामी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lule Sami"
+msgstr "ल्युल सामी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Inari Sami"
+msgstr "इनारी सामी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Skolt Sami"
+msgstr "स्कोल्ट सामी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Shona"
+msgstr "शोणा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Soninke"
+msgstr "सोनिन्के"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Somali"
+msgstr "सोमाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sogdien"
+msgstr "सोग्डिएन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Albanian"
+msgstr "अल्बानियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Serbian"
+msgstr "सर्बियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Montenegrin"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sranan Tongo"
+msgstr "स्रानान टॉन्गो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Serer"
+msgstr "सेरेर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Swati"
+msgstr "स्वाती"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Saho"
+msgstr "साहो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Southern Sotho"
+msgstr "दक्षिणी सेसेथो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Saterland Frisian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sundanese"
+msgstr "सुंडानी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sukuma"
+msgstr "सुकुमा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Susu"
+msgstr "सुसु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sumerian"
+msgstr "सुमेरियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Swedish"
+msgstr "स्वीडिश"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Swahili"
+msgstr "स्वाहिली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Congo Swahili"
+msgstr "कांगो स्वाहिली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Comorian"
+msgstr "कोमोरियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Classical Syriac"
+msgstr "क्लासिकल सिरिएक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Syriac"
+msgstr "सिरिएक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Silesian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tamil"
+msgstr "तमिल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tulu"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Telugu"
+msgstr "तेलुगू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Timne"
+msgstr "टिम्ने"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Teso"
+msgstr "टेसो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tereno"
+msgstr "तेरेनो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tetum"
+msgstr "तेतुम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tajik"
+msgstr "ताजिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Thai"
+msgstr "थाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tigrinya"
+msgstr "तिग्रीन्या"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tigre"
+msgstr "टाइग्रे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tiv"
+msgstr "तिव"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Turkmen"
+msgstr "तुर्कमेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tsakhur"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tagalog"
+msgstr "टैगलॉग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Klingon"
+msgstr "क्लिंगन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tlingit"
+msgstr "त्लिंगित"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Talysh"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tamashek"
+msgstr "तामाशेक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tswana"
+msgstr "सेत्स्वाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tongan"
+msgstr "टोंगन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nyasa Tonga"
+msgstr "न्यासा टोन्गा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tok Pisin"
+msgstr "टोक पिसिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Turkish"
+msgstr "तुर्की"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Turoyo"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Taroko"
+msgstr "तारोको"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tsonga"
+msgstr "सोंगा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tsakonian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tsimshian"
+msgstr "त्सिमीशियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tatar"
+msgstr "तातार"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Muslim Tat"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tumbuka"
+msgstr "तम्बूका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Twi"
+msgstr "ट्वी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tasawaq"
+msgstr "टासवाक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tahitian"
+msgstr "ताहितियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tuvinian"
+msgstr "तुवीनियन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Atlas Tamazight"
+msgstr "मध्य एटलस तमाज़ित"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Udmurt"
+msgstr "उदमुर्त"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uyghur"
+msgstr "उइगर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uighur"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ugaritic"
+msgstr "युगैरिटिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ukrainian"
+msgstr "यूक्रेनियाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Umbundu"
+msgstr "उम्बुन्डु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Unknown language"
+msgstr "अज्ञात भाषा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Urdu"
+msgstr "उर्दू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uzbek"
+msgstr "उज़्बेक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vai"
+msgstr "वाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Venda"
+msgstr "वेन्दा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Venetian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Veps"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vietnamese"
+msgstr "वियतनामी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "West Flemish"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Main-Franconian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Volapük"
+msgstr "वोलापुक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Votic"
+msgstr "वॉटिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Võro"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vunjo"
+msgstr "वुंजो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Walloon"
+msgstr "वाल्लून"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Walser"
+msgstr "वाल्सर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wolaytta"
+msgstr "वलामो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Waray"
+msgstr "वारै"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Washo"
+msgstr "वाशो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Warlpiri"
+msgstr "वॉल्पेरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wolof"
+msgstr "वोलोफ़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wu Chinese"
+msgstr "वू चीनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kalmyk"
+msgstr "काल्मिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Xhosa"
+msgstr "ख़ोसा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mingrelian"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Soga"
+msgstr "सोगा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yao"
+msgstr "याओ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yapese"
+msgstr "यापीस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yangben"
+msgstr "यांगबेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yemba"
+msgstr "येंबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yiddish"
+msgstr "यहूदी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yoruba"
+msgstr "योरूबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nheengatu"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cantonese"
+msgstr "कैंटोनीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chinese, Cantonese"
+msgstr "चीनी, कैंटोनीज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zhuang"
+msgstr "ज़ुआंग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zapotec"
+msgstr "ज़ेपोटेक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Blissymbols"
+msgstr "ब्लिसिम्बॉल्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zeelandic"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zenaga"
+msgstr "ज़ेनान्गा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Standard Moroccan Tamazight"
+msgstr "मानक मोरक्कन तामाज़ाइट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chinese"
+msgstr "चीनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Simplified Chinese"
+msgstr "सरलीकृत चीनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Simplified Mandarin Chinese"
+msgstr "सरलीकृत मैंडेरिन चीनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Traditional Chinese"
+msgstr "पारंपरिक चीनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Traditional Mandarin Chinese"
+msgstr "पारंपरिक मैंडेरिन चीनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mandarin Chinese"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chinese, Mandarin"
+msgstr "चीनी, मैंडेरिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zulu"
+msgstr "ज़ुलू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zuni"
+msgstr "ज़ूनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "No linguistic content"
+msgstr "कोई भाषा सामग्री नहीं"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zaza"
+msgstr "ज़ाज़ा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Abidjan"
+msgstr "अबिदजान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Accra"
+msgstr "एक्रा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Addis Ababa"
+msgstr "अदीस अबाबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Algiers"
+msgstr "अल्जीयर्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Asmara"
+msgstr "अस्मारा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bamako"
+msgstr "बामाको"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bangui"
+msgstr "बांगुइ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Banjul"
+msgstr "बैंजुल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bissau"
+msgstr "बिसाऊ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Blantyre"
+msgstr "ब्लांटायर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brazzaville"
+msgstr "ब्राज़ाविले"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bujumbura"
+msgstr "बुजुंबूरा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cairo"
+msgstr "कायरो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Casablanca"
+msgstr "कासाब्लांका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ceuta"
+msgstr "सेउटा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Conakry"
+msgstr "कोनाक्री"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dakar"
+msgstr "डकार"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dar es Salaam"
+msgstr "दार अस सलाम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Douala"
+msgstr "डूआला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "El Aaiun"
+msgstr "अल आइयून"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Freetown"
+msgstr "फ़्रीटाउन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gaborone"
+msgstr "गाबोरोन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Harare"
+msgstr "हरारे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Johannesburg"
+msgstr "जोहांसबर्ग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Juba"
+msgstr "जुबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kampala"
+msgstr "कंपाला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Khartoum"
+msgstr "खार्तूम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kigali"
+msgstr "किगाली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kinshasa"
+msgstr "किंशासा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lagos"
+msgstr "लागोस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Libreville"
+msgstr "लिब्रेविले"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lome"
+msgstr "लोम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Luanda"
+msgstr "लुआंडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lubumbashi"
+msgstr "लुबुमबाशी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lusaka"
+msgstr "लुसाका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Malabo"
+msgstr "मलाबो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maputo"
+msgstr "मापुटो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maseru"
+msgstr "मासेरू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mbabane"
+msgstr "एमबाबेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mogadishu"
+msgstr "मोगादिशु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Monrovia"
+msgstr "मोनरोविया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nairobi"
+msgstr "नैरोबी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ndjamena"
+msgstr "नेद्जामीना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Niamey"
+msgstr "नियामी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nouakchott"
+msgstr "नौआकशॉट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ouagadougou"
+msgstr "औगाडोगू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Porto-Novo"
+msgstr "पोर्टो-नोवो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "São Tomé"
+msgstr "साओ टोम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tripoli"
+msgstr "त्रिपोली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tunis"
+msgstr "ट्यूनिस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Windhoek"
+msgstr "विंडहोक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Adak"
+msgstr "अडक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Anchorage"
+msgstr "एंकरेज"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Antigua"
+msgstr "एंटीगुआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Araguaina"
+msgstr "आराग्वेना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "La Rioja"
+msgstr "ला रिओजा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rio Gallegos"
+msgstr "रियो गालेगोस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Salta"
+msgstr "साल्टा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "San Juan"
+msgstr "सैन ह्वान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "San Luis"
+msgstr "सैन लूई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tucuman"
+msgstr "टोकूमन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ushuaia"
+msgstr "उशुआइया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Asunción"
+msgstr "एसनशियॉन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bahia"
+msgstr "बहिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bahia Banderas"
+msgstr "बेहिया बांडेरास"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Belem"
+msgstr "बेलेम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Blanc-Sablon"
+msgstr "ब्लांक-सेबलोन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Boa Vista"
+msgstr "बोआ विस्ता"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bogota"
+msgstr "बोगोटा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Boise"
+msgstr "बॉइसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Buenos Aires"
+msgstr "ब्यूनस आयरस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cambridge Bay"
+msgstr "कैम्ब्रिज खाड़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Campo Grande"
+msgstr "कैंपो ग्रांडे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cancun"
+msgstr "कैनकुन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Caracas"
+msgstr "काराकस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Catamarca"
+msgstr "काटामार्का"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cayenne"
+msgstr "कायेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cayman"
+msgstr "कैमेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chicago"
+msgstr "शिकागो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chihuahua"
+msgstr "चिहुआहुआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Atikokan"
+msgstr "अटिकोकान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cordoba"
+msgstr "कोर्डोबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Creston"
+msgstr "क्रेस्टन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cuiaba"
+msgstr "क्यूआबा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Danmarkshavn"
+msgstr "डेनमार्कशॉन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dawson"
+msgstr "डॉसन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dawson Creek"
+msgstr "डॉसन क्रीक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Denver"
+msgstr "डेनवर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Detroit"
+msgstr "डेट्रॉयट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Edmonton"
+msgstr "एडमंटन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eirunepe"
+msgstr "ईरुनेपे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fort Nelson"
+msgstr "फ़ोर्ट नेल्सन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fortaleza"
+msgstr "फ़ोर्टालेज़ा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Glace Bay"
+msgstr "ग्लेस खाड़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nuuk"
+msgstr "नुक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Goose Bay"
+msgstr "गूस खाड़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Grand Turk"
+msgstr "ग्रांड टर्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guayaquil"
+msgstr "ग्वायाकील"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Halifax"
+msgstr "हेलिफ़ैक्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Havana"
+msgstr "हवाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hermosillo"
+msgstr "हर्मोसिल्लो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Knox, Indiana"
+msgstr "नौक्स, इंडियाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marengo, Indiana"
+msgstr "मारेंगो, इंडियाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Petersburg, Indiana"
+msgstr "पीटर्सबर्ग, इंडियाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tell City, Indiana"
+msgstr "टेल सिटी, इंडियाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vevay, Indiana"
+msgstr "वेवे, इंडियाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vincennes, Indiana"
+msgstr "विंसेनेस, इंडियाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Winamac, Indiana"
+msgstr "विनामेक, इंडियाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Indianapolis"
+msgstr "इंडियानापोलिस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Inuvik"
+msgstr "इनूविक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Iqaluit"
+msgstr "इकालुईट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jujuy"
+msgstr "जुजोए"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Juneau"
+msgstr "ज्यूनाउ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Monticello, Kentucky"
+msgstr "मोंटीसेलो, केंटकी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kralendijk"
+msgstr "क्रालैंडिजिक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "La Paz"
+msgstr "ला पाज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lima"
+msgstr "लीमा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Los Angeles"
+msgstr "लॉस एंजिल्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Louisville"
+msgstr "लुइसविले"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lower Prince’s Quarter"
+msgstr "लोअर प्रिंसेस क्वार्टर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maceio"
+msgstr "मेसीओ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Managua"
+msgstr "मानागुआ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Manaus"
+msgstr "मनौस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marigot"
+msgstr "मैरीगोट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Matamoros"
+msgstr "माटामोरोस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mazatlan"
+msgstr "माज़ाटलान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mendoza"
+msgstr "मेंडोज़ा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Menominee"
+msgstr "मेनोमिनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Merida"
+msgstr "मेरिडा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Metlakatla"
+msgstr "मेट्लेकाट्ला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mexico City"
+msgstr "मेक्सिको सिटी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Miquelon"
+msgstr "मिकेलॉन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Moncton"
+msgstr "मोंकटन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Monterrey"
+msgstr "मोंटेरेरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Montevideo"
+msgstr "मोंटेवीडियो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nassau"
+msgstr "नासाउ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "New York"
+msgstr "न्यूयॉर्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nipigon"
+msgstr "निपिगन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nome"
+msgstr "नोम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Noronha"
+msgstr "नोरोन्हा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Beulah, North Dakota"
+msgstr "ब्यूला, उत्तरी डकोटा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Center, North Dakota"
+msgstr "मध्य, उत्तरी दाकोता"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "New Salem, North Dakota"
+msgstr "न्यू सालेम, उत्तरी डकोटा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ojinaga"
+msgstr "ओखाजीनागा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pangnirtung"
+msgstr "पांगनिर्टंग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Paramaribo"
+msgstr "पारामारिबो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Phoenix"
+msgstr "फ़ीनिक्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Port-au-Prince"
+msgstr "पोर्ट-ऑ-प्रिंस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Port of Spain"
+msgstr "पोर्ट ऑफ़ स्पेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Porto Velho"
+msgstr "पोर्टो वेल्हो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Punta Arenas"
+msgstr "पुंटा एरिनास"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rainy River"
+msgstr "रेनी नदी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rankin Inlet"
+msgstr "रेंकिन इनलेट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Recife"
+msgstr "रेसाइफ़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Regina"
+msgstr "रेजिना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Resolute"
+msgstr "रिसोल्यूट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rio Branco"
+msgstr "रियो ब्रांको"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Santarem"
+msgstr "सैंटारेम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Santiago"
+msgstr "सैंटियागो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Santo Domingo"
+msgstr "सेंटो डोमिंगो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sao Paulo"
+msgstr "साओ पाउलो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ittoqqortoormiit"
+msgstr "इटोकोर्टोरमिट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sitka"
+msgstr "सिट्का"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. John’s"
+msgstr "सेंट जोंस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Kitts"
+msgstr "सेंट किट्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Thomas"
+msgstr "सेंट थॉमस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Vincent"
+msgstr "सेंट विंसेंट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Swift Current"
+msgstr "स्विफ़्ट करंट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tegucigalpa"
+msgstr "टेगुसिगल्पा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Thule"
+msgstr "थ्यूले"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Thunder Bay"
+msgstr "थंडर खाड़ी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tijuana"
+msgstr "तिजुआना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Toronto"
+msgstr "टोरंटो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tortola"
+msgstr "टोर्टोला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vancouver"
+msgstr "वैंकूवर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Whitehorse"
+msgstr "व्हाइटहोर्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Winnipeg"
+msgstr "विनीपेग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yakutat"
+msgstr "याकूटाट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yellowknife"
+msgstr "येलोनाइफ़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Casey"
+msgstr "केसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Davis"
+msgstr "डेविस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dumont d’Urville"
+msgstr "ड्यूमोंट डी अर्विले"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Macquarie"
+msgstr "मक्वारी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mawson"
+msgstr "मॉसन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "McMurdo"
+msgstr "मैकमुर्डो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Palmer"
+msgstr "पॉमर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rothera"
+msgstr "रोथेरा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Syowa"
+msgstr "स्योवा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Troll"
+msgstr "ट्रोल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vostok"
+msgstr "वोस्तोक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Longyearbyen"
+msgstr "लॉन्गईयरबायेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aden"
+msgstr "आदेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Almaty"
+msgstr "अल्माटी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Amman"
+msgstr "अम्मान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Anadyr"
+msgstr "अनाडिर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aqtau"
+msgstr "अक्ताउ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aqtobe"
+msgstr "अक्तोब"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ashgabat"
+msgstr "अश्गाबात"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Atyrau"
+msgstr "एतराउ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Baghdad"
+msgstr "बगदाद"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Baku"
+msgstr "बाकु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bangkok"
+msgstr "बैंकॉक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Barnaul"
+msgstr "बर्नोल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Beirut"
+msgstr "बेरुत"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bishkek"
+msgstr "बिश्केक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kolkata"
+msgstr "कोलकाता"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chita"
+msgstr "त्शिता"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Choibalsan"
+msgstr "चोइबालसन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Colombo"
+msgstr "कोलंबो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Damascus"
+msgstr "दमास्कस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dhaka"
+msgstr "ढाका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dili"
+msgstr "डिलि"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dubai"
+msgstr "दुबई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dushanbe"
+msgstr "दुशांबे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Famagusta"
+msgstr "फ़ामागुस्ता"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gaza"
+msgstr "गाज़ा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hebron"
+msgstr "हेब्रोन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hovd"
+msgstr "होव्ड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Irkutsk"
+msgstr "इर्कुत्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jakarta"
+msgstr "जकार्ता"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jayapura"
+msgstr "जयापुरा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Jerusalem"
+msgstr "यरूशलम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kabul"
+msgstr "काबुल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kamchatka"
+msgstr "कमचत्का"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Karachi"
+msgstr "कराची"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kathmandu"
+msgstr "काठमांडू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Khandyga"
+msgstr "खांडिगा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Krasnoyarsk"
+msgstr "क्रास्नोयार्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kuala Lumpur"
+msgstr "कुआलालंपुर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kuching"
+msgstr "कूचिंग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Magadan"
+msgstr "मागादान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Makassar"
+msgstr "मकस्सर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Manila"
+msgstr "मनीला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Muscat"
+msgstr "मस्कट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nicosia"
+msgstr "निकोसिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Novokuznetsk"
+msgstr "नोवोकुज़्नेत्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Novosibirsk"
+msgstr "नोवोसिबिर्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Omsk"
+msgstr "ओम्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Oral"
+msgstr "ओरल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Phnom Penh"
+msgstr "नॉम पेन्ह"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pontianak"
+msgstr "पोंटीयांक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pyongyang"
+msgstr "प्योंगयांग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kostanay"
+msgstr "कोस्टाने"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Qyzylorda"
+msgstr "केज़ेलोर्डा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yangon"
+msgstr "रंगून"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Riyadh"
+msgstr "रियाद"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ho Chi Minh City"
+msgstr "हो ची मिन्ह सिटी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sakhalin"
+msgstr "सखालिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samarkand"
+msgstr "समरकंद"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Seoul"
+msgstr "सिओल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Shanghai"
+msgstr "शंघाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Srednekolymsk"
+msgstr "स्रेद्निकोलिमस्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Taipei"
+msgstr "ताईपेई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tashkent"
+msgstr "ताशकंद"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tbilisi"
+msgstr "टबिलिसी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tehran"
+msgstr "तेहरान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Thimphu"
+msgstr "थिंपू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tokyo"
+msgstr "टोक्यो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tomsk"
+msgstr "तोम्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ulaanbaatar"
+msgstr "उलानबातर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Urumqi"
+msgstr "उरूम्की"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ust-Nera"
+msgstr "यूस्ट–नेरा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vientiane"
+msgstr "विएनतियान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vladivostok"
+msgstr "व्लादिवोस्तोक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yakutsk"
+msgstr "याकूत्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yekaterinburg"
+msgstr "येकातेरिनबर्ग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yerevan"
+msgstr "येरेवान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Azores"
+msgstr "अज़ोरेस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Canary"
+msgstr "कैनेरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Faroe"
+msgstr "फ़ैरो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Madeira"
+msgstr "मडेरा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Reykjavik"
+msgstr "रेक्याविक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South Georgia"
+msgstr "दक्षिण जॉर्जिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Stanley"
+msgstr "स्टैनली"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Adelaide"
+msgstr "एडिलेड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brisbane"
+msgstr "ब्रिस्बन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Broken Hill"
+msgstr "ब्रोकन हिल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Darwin"
+msgstr "डार्विन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eucla"
+msgstr "यूक्ला"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hobart"
+msgstr "होबार्ट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lindeman"
+msgstr "लिंडेमान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lord Howe"
+msgstr "लॉर्ड होवे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Melbourne"
+msgstr "मेलबोर्न"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Perth"
+msgstr "पर्थ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sydney"
+msgstr "सिडनी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "UTC"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Unknown City"
+msgstr "अज्ञात शहर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Amsterdam"
+msgstr "एम्स्टर्डम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Astrakhan"
+msgstr "आस्ट्राखान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Athens"
+msgstr "एथेंस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Belgrade"
+msgstr "बेलग्रेड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Berlin"
+msgstr "बर्लिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bratislava"
+msgstr "ब्रातिस्लावा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brussels"
+msgstr "ब्रूसेल्स"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bucharest"
+msgstr "बुख़ारेस्ट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Budapest"
+msgstr "बुडापेस्ट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Busingen"
+msgstr "ब्यूसिनजेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chisinau"
+msgstr "चिसीनाउ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Copenhagen"
+msgstr "कोपेनहेगन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dublin"
+msgstr "डबलिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Helsinki"
+msgstr "हेलसिंकी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Istanbul"
+msgstr "इस्तांबुल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kaliningrad"
+msgstr "कालीनिनग्राड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kiev"
+msgstr "कीव"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kirov"
+msgstr "किरोव"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lisbon"
+msgstr "लिस्बन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ljubljana"
+msgstr "ल्यूबेलजाना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "London"
+msgstr "लंदन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Madrid"
+msgstr "मैड्रिड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mariehamn"
+msgstr "मारियाहैम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Minsk"
+msgstr "मिंस्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Moscow"
+msgstr "मॉस्को"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Oslo"
+msgstr "ओस्लो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Paris"
+msgstr "पेरिस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Podgorica"
+msgstr "पोड्गोरिका"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Prague"
+msgstr "प्राग"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Riga"
+msgstr "रीगा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rome"
+msgstr "रोम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samara"
+msgstr "समारा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sarajevo"
+msgstr "साराजेवो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Saratov"
+msgstr "सारातोव"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Simferopol"
+msgstr "सिम्फ़ेरोपोल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Skopje"
+msgstr "स्कोप्जे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sofia"
+msgstr "सोफ़िया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Stockholm"
+msgstr "स्टॉकहोम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tallinn"
+msgstr "तेलिन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tirane"
+msgstr "टाइरेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ulyanovsk"
+msgstr "उल्यानोव्स्क"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uzhhorod"
+msgstr "अज़्गोरोद"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vaduz"
+msgstr "वादुज़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vatican"
+msgstr "वेटिकन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vienna"
+msgstr "विएना"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vilnius"
+msgstr "विल्नियस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Volgograd"
+msgstr "वोल्गोग्राड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Warsaw"
+msgstr "वॉरसॉ"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zagreb"
+msgstr "ज़ाग्रेब"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zaporozhye"
+msgstr "ज़ैपोरोज़ाई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Zurich"
+msgstr "ज़्यूरिख़"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Antananarivo"
+msgstr "एंटानानरीवो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chagos"
+msgstr "शागोस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Christmas"
+msgstr "क्रिसमस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cocos"
+msgstr "कोकोस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Comoro"
+msgstr "कोमोरो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kerguelen"
+msgstr "करगुलेन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mahe"
+msgstr "माहे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Apia"
+msgstr "एपिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Auckland"
+msgstr "ऑकलैंड"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bougainville"
+msgstr "बोगनविले"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chatham"
+msgstr "चैथम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Easter"
+msgstr "ईस्टर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Efate"
+msgstr "एफ़ेट"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Enderbury"
+msgstr "एंडरबरी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fakaofo"
+msgstr "फ़ाकाओफ़ो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Funafuti"
+msgstr "फ़्यूनाफ़ुटी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Galapagos"
+msgstr "गेलापागोस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gambier"
+msgstr "गैंबियर"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guadalcanal"
+msgstr "ग्वाडलकनाल"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Honolulu"
+msgstr "होनोलुलु"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Johnston"
+msgstr "जॉनस्टन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kiritimati"
+msgstr "किरीतिमाति"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kosrae"
+msgstr "कोसराए"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kwajalein"
+msgstr "क्वाज़ालीन"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Majuro"
+msgstr "माजुरो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marquesas"
+msgstr "मार्केसस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Midway"
+msgstr "मिडवे"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Norfolk"
+msgstr "नॉरफ़ॉक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Noumea"
+msgstr "नौमिया"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pago Pago"
+msgstr "पागो पागो"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pitcairn"
+msgstr "पिटकैर्न"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pohnpei"
+msgstr "पोनपेई"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Port Moresby"
+msgstr "पोर्ट मोरेस्बी"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rarotonga"
+msgstr "रारोटोंगा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Saipan"
+msgstr "सायपान"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tahiti"
+msgstr "ताहिती"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tarawa"
+msgstr "टारावा"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tongatapu"
+msgstr "टोंगाटापू"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chuuk"
+msgstr "चक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wake"
+msgstr "वेक"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wallis"
+msgstr "वालिस"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Acre Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Afghanistan Time"
+msgstr "अफ़गानिस्तान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Africa Time"
+msgstr "मध्य अफ़्रीका समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "East Africa Time"
+msgstr "पूर्वी अफ़्रीका समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South Africa Standard Time"
+msgstr "दक्षिण अफ़्रीका मानक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "West Africa Time"
+msgstr "पश्चिम अफ़्रीका समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Alaska Time"
+msgstr "अलास्का समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Almaty Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Amazon Time"
+msgstr "अमेज़न समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Time"
+msgstr "उत्तरी अमेरिकी केंद्रीय समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eastern Time"
+msgstr "उत्तरी अमेरिकी पूर्वी समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mountain Time"
+msgstr "उत्तरी अमेरिकी माउंटेन समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pacific Time"
+msgstr "उत्तरी अमेरिकी प्रशांत समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Anadyr Time"
+msgstr "एनाडीयर समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Apia Time"
+msgstr "एपिआ समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aqtau Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Aqtobe Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Arabian Time"
+msgstr "अरब समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Argentina Time"
+msgstr "अर्जेंटीना समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Argentina Time"
+msgstr "पश्चिमी अर्जेंटीना समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Armenia Time"
+msgstr "आर्मेनिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Atlantic Time"
+msgstr "अटलांटिक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Australia Time"
+msgstr "मध्य ऑस्ट्रेलियाई समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Australian Central Western Time"
+msgstr "ऑस्‍ट्रेलियाई केंद्रीय पश्चिमी समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eastern Australia Time"
+msgstr "पूर्वी ऑस्ट्रेलिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Australia Time"
+msgstr "पश्चिमी ऑस्ट्रेलिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Azerbaijan Time"
+msgstr "अज़रबैजान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Azores Time"
+msgstr "अज़ोरेस समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bangladesh Time"
+msgstr "बांग्लादेश समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bhutan Time"
+msgstr "भूटान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Bolivia Time"
+msgstr "बोलीविया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brasilia Time"
+msgstr "ब्राज़ीलिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Brunei Darussalam Time"
+msgstr "ब्रूनेई दारूस्सलम समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cape Verde Time"
+msgstr "केप वर्ड समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Casey Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chamorro Standard Time"
+msgstr "चामोरो मानक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chatham Time"
+msgstr "चैथम समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chile Time"
+msgstr "चिली समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "China Time"
+msgstr "चीन समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Choibalsan Time"
+msgstr "कॉइबाल्सन समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Christmas Island Time"
+msgstr "क्रिसमस द्वीप समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cocos Islands Time"
+msgstr "कोकोस द्वीपसमूह समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Colombia Time"
+msgstr "कोलंबिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cook Islands Time"
+msgstr "कुक द्वीपसमूह समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Cuba Time"
+msgstr "क्यूबा समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Davis Time"
+msgstr "डेविस समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Dumont-d’Urville Time"
+msgstr "ड्यूमोंट डी अर्विले समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "East Timor Time"
+msgstr "पूर्वी तिमोर समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Easter Island Time"
+msgstr "ईस्टर द्वीप समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ecuador Time"
+msgstr "इक्वाडोर समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central European Time"
+msgstr "मध्य यूरोपीय समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eastern European Time"
+msgstr "पूर्वी यूरोपीय समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Further-eastern European Time"
+msgstr "अग्र पूर्वी यूरोपीय समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western European Time"
+msgstr "पश्चिमी यूरोपीय समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Falkland Islands Time"
+msgstr "फ़ॉकलैंड द्वीपसमूह समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fiji Time"
+msgstr "फ़िजी समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "French Guiana Time"
+msgstr "फ़्रेंच गुयाना समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "French Southern & Antarctic Time"
+msgstr "दक्षिणी फ़्रांस और अंटार्कटिक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Greenwich Mean Time"
+msgstr "ग्रीनविच मीन टाइम"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Galapagos Time"
+msgstr "गैलापेगोस का समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gambier Time"
+msgstr "गैंबियर समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Georgia Time"
+msgstr "जॉर्जिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gilbert Islands Time"
+msgstr "गिल्बर्ट द्वीपसमूह समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "East Greenland Time"
+msgstr "पूर्वी ग्रीनलैंड समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "West Greenland Time"
+msgstr "पश्चिमी ग्रीनलैंड समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guam Standard Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Gulf Standard Time"
+msgstr "खाड़ी मानक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Guyana Time"
+msgstr "गुयाना समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hawaii-Aleutian Time"
+msgstr "हवाई–आल्यूशन समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hong Kong Time"
+msgstr "हाँग काँग समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Hovd Time"
+msgstr "होव्ड समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "India Standard Time"
+msgstr "भारतीय मानक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Indian Ocean Time"
+msgstr "हिंद महासागर समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Indochina Time"
+msgstr "इंडोचाइना समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Central Indonesia Time"
+msgstr "मध्य इंडोनेशिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Eastern Indonesia Time"
+msgstr "पूर्वी इंडोनेशिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Western Indonesia Time"
+msgstr "पश्चिमी इंडोनेशिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Iran Time"
+msgstr "ईरान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Irkutsk Time"
+msgstr "इर्कुत्स्क समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Israel Time"
+msgstr "इज़राइल समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Japan Time"
+msgstr "जापान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Petropavlovsk-Kamchatski Time"
+msgstr "पेट्रोपेवलास्क-कैमचात्सकी समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "East Kazakhstan Time"
+msgstr "पूर्व कज़ाखस्तान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "West Kazakhstan Time"
+msgstr "पश्चिम कज़ाखस्तान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Korean Time"
+msgstr "कोरियाई समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kosrae Time"
+msgstr "कोसराए समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Krasnoyarsk Time"
+msgstr "क्रास्नोयार्स्क समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Kyrgyzstan Time"
+msgstr "किर्गिस्‍तान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lanka Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Line Islands Time"
+msgstr "लाइन द्वीपसमूह समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Lord Howe Time"
+msgstr "लॉर्ड होवे समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Macao Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Macquarie Island Time"
+msgstr "मक्वारी द्वीप समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Magadan Time"
+msgstr "मागादान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Malaysia Time"
+msgstr "मलेशिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Maldives Time"
+msgstr "मालदीव समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marquesas Time"
+msgstr "मार्केसस समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Marshall Islands Time"
+msgstr "मार्शल द्वीपसमूह समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mauritius Time"
+msgstr "मॉरीशस समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mawson Time"
+msgstr "माव्सन समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Northwest Mexico Time"
+msgstr "उत्तर पश्चिमी मेक्सिको समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Mexican Pacific Time"
+msgstr "मेक्सिकन प्रशांत समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ulaanbaatar Time"
+msgstr "उलान बटोर समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Moscow Time"
+msgstr "मॉस्को समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Myanmar Time"
+msgstr "म्यांमार समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nauru Time"
+msgstr "नौरू समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Nepal Time"
+msgstr "नेपाल समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "New Caledonia Time"
+msgstr "न्यू कैलेडोनिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "New Zealand Time"
+msgstr "न्यूज़ीलैंड समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Newfoundland Time"
+msgstr "न्यूफ़ाउंडलैंड समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Niue Time"
+msgstr "नीयू समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Norfolk Island Time"
+msgstr "नॉरफ़ॉक द्वीप समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Fernando de Noronha Time"
+msgstr "फ़र्नांर्डो डे नोरोन्हा समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "North Mariana Islands Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Novosibirsk Time"
+msgstr "नोवोसिबिर्स्क समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Omsk Time"
+msgstr "ओम्स्क समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pakistan Time"
+msgstr "पाकिस्तान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Palau Time"
+msgstr "पलाउ समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Papua New Guinea Time"
+msgstr "पापुआ न्यू गिनी समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Paraguay Time"
+msgstr "पैराग्वे समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Peru Time"
+msgstr "पेरू समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Philippine Time"
+msgstr "फ़िलिपीन समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Phoenix Islands Time"
+msgstr "फ़ीनिक्स द्वीपसमूह समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "St. Pierre & Miquelon Time"
+msgstr "सेंट पिएरे और मिक्वेलान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pitcairn Time"
+msgstr "पिटकैर्न समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Ponape Time"
+msgstr "पोनापे समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Pyongyang Time"
+msgstr "प्योंगयांग समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Qyzylorda Time"
+msgstr ""
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Réunion Time"
+msgstr "रीयूनियन समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Rothera Time"
+msgstr "रोथेरा समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Sakhalin Time"
+msgstr "सखालिन समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samara Time"
+msgstr "समारा समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Samoa Time"
+msgstr "समोआ समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Seychelles Time"
+msgstr "सेशेल्स समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Singapore Standard Time"
+msgstr "सिंगापुर समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Solomon Islands Time"
+msgstr "सोलोमन द्वीपसमूह समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "South Georgia Time"
+msgstr "दक्षिणी जॉर्जिया समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Suriname Time"
+msgstr "सूरीनाम समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Syowa Time"
+msgstr "स्योवा समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tahiti Time"
+msgstr "ताहिती समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Taipei Time"
+msgstr "ताइपे समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tajikistan Time"
+msgstr "ताजिकिस्तान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tokelau Time"
+msgstr "टोकेलाऊ समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tonga Time"
+msgstr "टोंगा समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Chuuk Time"
+msgstr "चुक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Turkmenistan Time"
+msgstr "तुर्कमेनिस्तान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Tuvalu Time"
+msgstr "तुवालू समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uruguay Time"
+msgstr "उरुग्वे समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Uzbekistan Time"
+msgstr "उज़्बेकिस्तान समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vanuatu Time"
+msgstr "वनुआतू समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Venezuela Time"
+msgstr "वेनेज़ुएला समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vladivostok Time"
+msgstr "व्लादिवोस्तोक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Volgograd Time"
+msgstr "वोल्गोग्राड समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Vostok Time"
+msgstr "वोस्तोक समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wake Island Time"
+msgstr "वेक द्वीप समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Wallis & Futuna Time"
+msgstr "वालिस और फ़्यूचूना समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yakutsk Time"
+msgstr "याकुत्स्क समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "Yekaterinburg Time"
+msgstr "येकातेरिनबर्ग समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "%s Time"
+msgstr "%s समय"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "+HH:mm;-HH:mm"
+msgstr "+HH:mm;-HH:mm"
+
+#. auto-generated from CLDR -- see docs before updating
+msgid "GMT%s"
+msgstr "GMT%s"
