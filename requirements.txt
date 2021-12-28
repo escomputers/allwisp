@@ -47,3 +47,4 @@ django-localflavor==3.1
 django-vies==6.0.2
 phonenumbers==8.12.38
 django-countries==7.2.1
+django-phonenumber-field==6.0.0
