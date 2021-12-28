@@ -1,5 +1,6 @@
 #common#
-django==3.2.9
+wheel
+django==3.2.10
 six==1.16.0
 sqlparse==0.4.2
 #django cms#
@@ -17,7 +18,7 @@ djangocms-googlemap==2.0.0
 djangocms-snippet==3.0.0
 djangocms-style==3.0.0
 #todo#
-django-todo==0.1
+django-todo==2.4.0
 bleach==4.1.0
 #notekeeper#
 django-crispy-forms==1.13.0
@@ -30,7 +31,7 @@ Pygments==2.10.0
 python-decouple==3.5
 pytz==2021.3
 reportlab==3.6.2
-webencodings==0.5.1specific
+webencodings==0.5.1
 xhtml2pdf==0.2.5
 Markdown==3.3.4
 Unidecode==1.1.1
@@ -39,7 +40,7 @@ django-cryptography==1.0
 
 #CUSTOMER APP REQs
 Babel==2.9.1
-django-babel==0.6.2
+#django-babel==0.6.2
 django-iban==0.3.1
 django-internationalflavor==0.4.2
 django-localflavor==3.1
