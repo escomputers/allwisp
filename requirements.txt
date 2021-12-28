@@ -35,3 +35,13 @@ Markdown==3.3.4
 Unidecode==1.1.1
 markdown-checklist==0.4.3
 django-cryptography==1.0
+
+#CUSTOMER APP REQs
+Babel==2.9.1
+django-babel==0.6.2
+django-iban==0.3.1
+django-internationalflavor==0.4.2
+django-localflavor==3.1
+django-vies==6.0.2
+phonenumbers==8.12.38
+django-countries==7.2.1
