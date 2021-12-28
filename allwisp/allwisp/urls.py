@@ -15,20 +15,15 @@ urlpatterns = [
 	path('reset/done/',auth_views.PasswordResetCompleteView.as_view(),name='password_reset_complete',),
 	path('password_change/',auth_views.PasswordChangeView.as_view(),name='password_change',),
 	path('password_change/done',auth_views.PasswordChangeDoneView.as_view(),name='password_change_done',),
-	#modifica per notekeeper
    	path('appunti/', include('notes.urls')),
-	#aggiunta per pagina verifica copertura
-	#path('copertura/', TemplateView.as_view(template_name="mappa.html"), name="copertura"),
-	#cms urls
 	re_path(r'^', include('cms.urls')),
-	# # # url main
-    	path('customer/', include('apps.customer.urls')),
-		path('invoice/', include('apps.invoices.urls')),
-		path('expenses/', include('apps.expenses.urls')),
-		path('items/', include('apps.items.urls')),
-		path('accounting/', include('apps.reports.urls')),
-		path('attachment/', include('apps.attachment.urls')),
-		path('azienda/', include('apps.azienda.urls')),
+	path('customer/', include('apps.customer.urls')),
+	path('invoice/', include('apps.invoices.urls')),
+	path('expenses/', include('apps.expenses.urls')),
+	path('items/', include('apps.items.urls')),
+	path('accounting/', include('apps.reports.urls')),
+	path('attachment/', include('apps.attachment.urls')),
+	path('azienda/', include('apps.azienda.urls')),
 	
 	
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
