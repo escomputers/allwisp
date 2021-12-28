@@ -33,20 +33,16 @@ VIRTUAL ENV
 
 cd $HOME
 
-git clone -b develop_secondario https://github.com/escomputers/allwisp.git
+git clone https://github.com/escomputers/allwisp.git
 
 #token expiring 13th March 2022
 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
 
-cd allwisp
-
-python3 -m venv env_allwisp
+cd allwisp && python3 -m venv env_allwisp
 
 source env_allwisp/bin/activate
 
-cd allwisp
-
-python3 manage.py makemigrations
+cd allwisp && python3 manage.py makemigrations
 
 python3 manage.py migrate
 
