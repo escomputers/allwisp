@@ -16,8 +16,7 @@ urlpatterns = [
 	path('password_change/',auth_views.PasswordChangeView.as_view(),name='password_change',),
 	path('password_change/done',auth_views.PasswordChangeDoneView.as_view(),name='password_change_done',),
 	#modifica per notekeeper
-	path('summernote/', include('django_summernote.urls')),
-    path('appunti/', include('notes.urls')),
+   	path('appunti/', include('notes.urls')),
 	#aggiunta per pagina verifica copertura
 	#path('copertura/', TemplateView.as_view(template_name="mappa.html"), name="copertura"),
 	#cms urls
