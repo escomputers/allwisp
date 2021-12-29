@@ -40,7 +40,6 @@ django-cryptography==1.0
 
 #CUSTOMER APP REQs
 Babel==2.9.1
-#django-babel==0.6.2
 django-iban==0.3.1
 django-internationalflavor==0.4.2
 django-localflavor==3.1
