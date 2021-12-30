@@ -8,9 +8,9 @@ In progress
 
 # Requirements
 
-
-Debian 10> - Ubuntu 20.04>
-Python        3.8>
+```
+Debian 10> or Ubuntu 20.04>
+Python 3.8>
 
 #Javascript libraries in compressed versions (min.js)
 jQuery                    v3.6.0
@@ -22,7 +22,7 @@ Bootstrap Tagsinput       v0.8.0
 AdminLTE                  v3.1.0
 Easymde                   v2.15.0
 Fullcalendar              v2.2.5
-
+```
 
 # Installation 
 
