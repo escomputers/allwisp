@@ -1,2 +1,0 @@
-djangocms_style
-tests

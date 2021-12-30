@@ -9,9 +9,8 @@ In progress
 # Requirements
 
 ```bash
-Ubuntu Server 20.04 LTS
-Python        3.8.10
-Pip           20.0.2
+Debian 10> - Ubuntu 20.04>
+Python        3.8>
 
 #Javascript libraries in compressed versions (min.js)
 jQuery                    v3.6.0
@@ -29,26 +28,31 @@ Fullcalendar              v2.2.5
 
 VIRTUAL ENV
 **********
-```bash
 
-cd $HOME
+[Download Original Virtual Environment con Python 3.9](http://arpanetitalia.com/venv3.9-ORIGINAL.zip)
+
+```bash
 
 git clone -b development https://github.com/escomputers/allwisp.git
 
 #token expiring 13th March 2022
 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
 
-cd allwisp && python3 -m venv env_allwisp
+sudo apt update && apt install -y zip
 
-source env_allwisp/bin/activate
+unzip venv3.9.zip
 
-cd allwisp && python3 manage.py makemigrations
+source venv3.9/bin/activate
 
-python3 manage.py migrate
+python -m pip install -r requirements.txt
 
-python3 manage.py createsuperuser
+cd allwisp && python manage.py makemigrations
 
-python3 manage.py runserver 0.0.0.0:8000
+python manage.py migrate
+
+python manage.py createsuperuser
+
+python manage.py runserver 0.0.0.0:8000
 
 1) Create user groups 
 2) Assign users to groups
