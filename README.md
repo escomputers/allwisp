@@ -40,7 +40,7 @@ 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
 
 sudo apt update && apt install -y zip
 
-unzip venv3.9.zip
+cd allwisp && unzip venv3.9.zip
 
 source venv3.9/bin/activate
 
