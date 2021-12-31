@@ -29,18 +29,19 @@ Fullcalendar              v2.2.5
 VIRTUAL ENV
 **********
 
-[Download Original Virtual Environment con Python 3.9](https://arpanetitalia.com/download.html)
+[Link per download Original Virtual Environment con Python 3.9](https://arpanetitalia.com/download.html)
 
 ```bash
+
+sudo su
 
 git clone -b development https://github.com/escomputers/allwisp.git
 
 #token expiring 13th March 2022
 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
 
-sudo apt update && apt install -y zip
 
-cd allwisp && unzip venv3.9.zip
+cd allwisp && tar -xf venv.xz
 
 source venv3.9/bin/activate
 
