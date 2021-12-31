@@ -53,11 +53,12 @@ python manage.py migrate
 python manage.py createsuperuser
 
 python manage.py runserver 0.0.0.0:8000
+```
 
 1) Create user groups 
 2) Assign users to groups
 3) Create task list with same name used in allwisp/allwisp/allwisp/settings.py
-```
+
 
 PRODUCTION
 **********
