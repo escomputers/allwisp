@@ -6,28 +6,7 @@ In progress
 
 In progress
 
-# Requirements
-
-```
-Debian 10> or Ubuntu 20.04>
-Python 3.8>
-
-#Javascript libraries in compressed versions (min.js)
-jQuery                    v3.6.0
-jQuery UI                 v1.12.1
-jQuery OverlayScrollbars  v1.13.0
-jQuery TableDND           v0.5.0
-Bootstrap Bundle          v.4.6.0
-Bootstrap Tagsinput       v0.8.0
-AdminLTE                  v3.1.0
-Easymde                   v2.15.0
-Fullcalendar              v2.2.5
-```
-
-# Installation 
-
-VIRTUAL ENV
-**********
+# Developer Installation 
 
 [Link per download Original Virtual Environment con Python 3.9](https://arpanetitalia.com/download.html)
 
@@ -63,8 +42,24 @@ python manage.py runserver 0.0.0.0:8000
 
 PRODUCTION
 **********
-```bash
 
-In progress
+# Production
 
+System requirements
+**********
+```
+Debian 10> or Ubuntu 20.04>
+Python 3.8>
+Pip
+
+#Javascript libraries in compressed versions (min.js)
+jQuery                    v3.6.0
+jQuery UI                 v1.12.1
+jQuery OverlayScrollbars  v1.13.0
+jQuery TableDND           v0.5.0
+Bootstrap Bundle          v.4.6.0
+Bootstrap Tagsinput       v0.8.0
+AdminLTE                  v3.1.0
+Easymde                   v2.15.0
+Fullcalendar              v2.2.5
 ```
