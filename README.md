@@ -11,7 +11,7 @@ In progress
 ```bash
 
 #COMANDO FACOLATIVO PER SCARICARE IL VIRTUALENV CON PYTHON 3.9 IN VERSIONE VERGINE
-wget https://arpanetitalia.com/download.html
+wget https://github.com/escomputers/PortableVirtualenv/raw/master/venv3.9_lin_amd64.tar.xz
 
 sudo su
 
