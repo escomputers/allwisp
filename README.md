@@ -8,9 +8,10 @@ In progress
 
 # Developer Installation 
 
-[Link per download Original Virtual Environment con Python 3.9](https://arpanetitalia.com/download.html)
-
 ```bash
+
+#COMANDO FACOLATIVO PER SCARICARE IL VIRTUALENV CON PYTHON 3.9 IN VERSIONE VERGINE
+wget https://arpanetitalia.com/download.html
 
 sudo su
 
