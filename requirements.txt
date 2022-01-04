@@ -29,6 +29,8 @@ django-polymorphic==3.0.0
 django-treebeard
 django-sekizai
 django-filer
+django-mptt
+djangocms-style
 djangocms-text-ckeditor
 djangocms-link
 djangocms-file
@@ -52,6 +54,5 @@ django-countries
 django-phonenumber-field
 
 #django-todo==2.4.0#
-#django==3.2.10#
+#django==3.2.9#
 #django-cms==3.9.0#
-#djangocms-style==3.0.0#
