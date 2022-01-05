@@ -40,7 +40,7 @@ six
 
 #APP TODO
 bleach
-git+https://github.com/shacker/django-todo.git@master#egg=django-todo
+git+https://github.com/escomputers/django-todo.git@master#egg=django-todo
 
 #APP INVOICE
 Babel
