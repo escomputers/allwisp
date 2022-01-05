@@ -4,8 +4,6 @@ Unidecode
 django==3.2.10
 
 #APP CMS#
-#django-js-asset
-#django-appconf
 django-cms==3.9.0
 #django-filer requires django-polymorphic<3.1,>=2 and Django<4.0>=2.2
 django-polymorphic==3.0.0
