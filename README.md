@@ -21,7 +21,7 @@ git clone -b development https://github.com/escomputers/allwisp.git
 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
 
 
-cd allwisp && tar -xf venv3.9.xz
+cd allwisp && tar -xf venv.xz
 
 source venv3.9/bin/activate
 

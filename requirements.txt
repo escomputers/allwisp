@@ -1,33 +1,14 @@
-#common#
+#COMMON#
 wheel
-setuptools
-asgiref
-Pillow
-bleach
-six
-Unidecode==1.1.1
-sqlparse
-reportlab
-webencodings
-xhtml2pdf
-Markdown
-markdown-checklist
-html5lib
-PyPDF2
-Pygments
-python-decouple
-pytz
+Unidecode
+django==3.2.10
 
-
-django-appconf
-django-js-asset
-django-formtools
-django-cryptography
-django-classy-tags
+#APP CMS#
+#django-js-asset
+#django-appconf
+django-cms==3.9.0
 #django-filer requires django-polymorphic<3.1,>=2 and Django<4.0>=2.2
 django-polymorphic==3.0.0
-django-treebeard
-django-sekizai
 django-filer
 django-mptt
 djangocms-style
@@ -38,12 +19,32 @@ djangocms-picture
 djangocms-video
 djangocms-googlemap
 djangocms-snippet
-django-crispy-forms
-django-taggit
 #easy-thumbnails requires django<4.0,>=2.2
 easy-thumbnails
 
-#CUSTOMER APP REQs
+#APP NOTE#
+django-summernote
+django-cryptography
+django-crispy-forms
+django-taggit
+html5lib
+PyPDF2
+Pygments
+Pillow
+reportlab
+webencodings
+xhtml2pdf
+Markdown
+markdown-checklist
+python-decouple
+pytz
+six
+
+#APP TODO
+bleach
+git+https://github.com/shacker/django-todo.git@master#egg=django-todo
+
+#APP INVOICE
 Babel
 django-iban
 django-internationalflavor
@@ -52,7 +53,3 @@ django-vies
 phonenumbers
 django-countries
 django-phonenumber-field
-
-#django-todo==2.4.0#
-#django==3.2.9#
-#django-cms==3.9.0#
