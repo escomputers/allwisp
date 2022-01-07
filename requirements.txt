@@ -1,49 +1,53 @@
-#common#
+#COMMON#
 wheel
+Unidecode
 django==3.2.10
-six==1.16.0
-sqlparse==0.4.2
-#django cms#
-django-cms==3.9.0
-django-treebeard==4.5.1
-django-sekizai==2.0.0
-django-filer==2.1.1
-django-mptt==0.13.4
-djangocms-text-ckeditor==4.0.0
-djangocms-link==3.0.0
-djangocms-file==3.0.0
-djangocms-picture==3.0.0
-djangocms-video==3.0.0
-djangocms-googlemap==2.0.0
-djangocms-snippet==3.0.0
-djangocms-style==3.0.0
-#todo#
-django-todo==2.4.0
-bleach==4.1.0
-#notekeeper#
-django-crispy-forms==1.13.0
-django-taggit==1.5.1
-django-summernote==0.8.11.4
-html5lib==1.1
-Pillow==8.4.0
-PyPDF2==1.26.0
-Pygments==2.10.0
-python-decouple==3.5
-pytz==2021.3
-reportlab==3.6.2
-webencodings==0.5.1
-xhtml2pdf==0.2.5
-Markdown==3.3.4
-Unidecode==1.1.1
-markdown-checklist==0.4.3
-django-cryptography==1.0
 
-#CUSTOMER APP REQs
-Babel==2.9.1
-django-iban==0.3.1
-django-internationalflavor==0.4.2
-django-localflavor==3.1
-django-vies==6.0.2
-phonenumbers==8.12.38
-django-countries==7.2.1
-django-phonenumber-field==6.0.0
+#APP CMS#
+django-cms==3.9.0
+#django-filer requires django-polymorphic<3.1,>=2 and Django<4.0>=2.2
+django-polymorphic==3.0.0
+django-filer
+django-mptt
+djangocms-style
+djangocms-text-ckeditor
+djangocms-link
+djangocms-file
+djangocms-picture
+djangocms-video
+djangocms-googlemap
+djangocms-snippet
+#easy-thumbnails requires django<4.0,>=2.2
+easy-thumbnails
+
+#APP NOTE#
+django-summernote
+django-cryptography
+django-crispy-forms
+django-taggit
+html5lib
+PyPDF2
+Pygments
+Pillow
+reportlab
+webencodings
+xhtml2pdf
+Markdown
+markdown-checklist
+python-decouple
+pytz
+six
+
+#APP TODO
+bleach
+git+https://github.com/escomputers/django-todo.git@master#egg=django-todo
+
+#APP INVOICE
+Babel
+django-iban
+django-internationalflavor
+django-localflavor
+django-vies
+phonenumbers
+django-countries
+django-phonenumber-field
