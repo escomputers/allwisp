@@ -10,9 +10,6 @@ In progress
 
 ```bash
 
-#COMANDO FACOLATIVO PER SCARICARE IL VIRTUALENV CON PYTHON 3.9 IN VERSIONE VERGINE
-wget https://github.com/escomputers/PortableVirtualenv/raw/master/venv3.9_lin_amd64.tar.xz
-
 sudo su
 
 git clone -b development https://github.com/escomputers/allwisp.git
@@ -21,11 +18,15 @@ git clone -b development https://github.com/escomputers/allwisp.git
 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
 
 
-cd allwisp && tar -xf venv.xz
+cd allwisp && tar -xf venv3.9_lin_amd64.tar.xz
 
 source venv3.9/bin/activate
 
 python -m pip install -r requirements.txt
+
+unzip site-packages.zip
+
+rsync -a site-packages/ venv3.9/lib/python3.9/site-packages/
 
 cd allwisp && python manage.py makemigrations
 
