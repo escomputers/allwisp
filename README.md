@@ -18,7 +18,7 @@ git clone -b development https://github.com/escomputers/allwisp.git
 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
 
 
-cd allwisp && wget https://github.com/escomputers/PortableVirtualenv/blob/master/venv3.9_lin_amd64.tar.xz
+cd allwisp && wget https://github.com/escomputers/PortableVirtualenv/raw/master/venv3.9_lin_amd64.tar.xz
 
 tar -xf venv3.9_lin_amd64.tar.xz
 
