@@ -59,5 +59,9 @@ Bootstrap Bundle          v.4.6.0
 Bootstrap Tagsinput       v0.8.0
 AdminLTE                  v3.1.0
 Easymde                   v2.15.0
-Fullcalendar              v2.2.5
+Fullcalendar              v5.10.1
+Select2 				  v4.0.13
+Moment					  v3.0.0
+Daterangepicker			  v3.0.5
+
 ```
