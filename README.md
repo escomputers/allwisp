@@ -24,8 +24,6 @@ source venv3.9/bin/activate
 
 python -m pip install -r requirements.txt
 
-unzip site-packages.zip
-
 rsync -a site-packages/ venv3.9/lib/python3.9/site-packages/
 
 cd allwisp && python manage.py makemigrations
