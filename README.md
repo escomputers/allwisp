@@ -10,7 +10,7 @@ In progress
 
 ```bash
 
-git clone -b development https://github.com/escomputers/allwisp.git
+git clone https://github.com/escomputers/allwisp.git
 
 #token expiring 13th March 2022
 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
