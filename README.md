@@ -10,9 +10,7 @@ In progress
 
 ```bash
 
-sudo su
-
-git clone -b main https://github.com/escomputers/allwisp.git
+git clone -b development https://github.com/escomputers/allwisp.git
 
 #token expiring 13th March 2022
 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
@@ -25,8 +23,6 @@ tar -xf venv3.9_lin_amd64.tar.xz
 source venv3.9/bin/activate
 
 python -m pip install -r requirements.txt
-
-unzip site-packages.zip
 
 rsync -a site-packages/ venv3.9/lib/python3.9/site-packages/
 
@@ -61,5 +57,9 @@ Bootstrap Bundle          v.4.6.0
 Bootstrap Tagsinput       v0.8.0
 AdminLTE                  v3.1.0
 Easymde                   v2.15.0
-Fullcalendar              v2.2.5
+Fullcalendar              v5.10.1
+Select2                   v4.0.13
+Moment                    v3.0.0
+Daterangepicker           v3.0.5
+
 ```
