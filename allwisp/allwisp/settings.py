@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 from pathlib import Path
 import os
 from django.conf.urls.static import static
+from django.core.cache.backends.db import DatabaseCache
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -72,7 +73,8 @@ INSTALLED_APPS = [
     'localflavor',
     'internationalflavor', 
     'phonenumber_field',
-    'babel'
+    'babel',
+	'django_q',
 ]
 
 THUMBNAIL_HIGH_RESOLUTION = True
@@ -144,6 +146,12 @@ DATABASES = {
     }
 }
 
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.db.DatabaseCache',
+        'LOCATION': 'my_cache_table',
+    }
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
@@ -204,4 +212,15 @@ EMAIL_HOST = 'mail.arpanetitalia.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'service@arpanetitalia.com'
 EMAIL_HOST_PASSWORD = 'arp$trSpd8889'
+
 PHONENUMBER_DB_FORMAT = "INTERNATIONAL"
+
+Q_CLUSTER = {
+    'name': 'DjangORMcalendarApp',
+    'workers': 1,
+    'timeout': 90,
+    'retry': 120,
+    'queue_limit': 50,
+    'bulk': 10,
+    'orm': 'default'
+}
