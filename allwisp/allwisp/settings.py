@@ -62,14 +62,14 @@ INSTALLED_APPS = [
 	'crispy_forms',
     'taggit',
 	'notes',
-    'apps.customer.apps.CustomerConfig' ,
-    'apps.invoices.apps.InvoicesConfig',
-    'apps.items.apps.ItemsConfig',
-    'apps.reports.apps.ReportsConfig',
-    'apps.expenses.apps.ExpensesConfig',
-    'apps.attachment.apps.AttachmentConfig',
-    'apps.azienda.apps.AziendaConfig',
-    'commonviews.apps.CommonviewsConfig',
+    #'apps.customer.apps.CustomerConfig' ,
+    #'apps.invoices.apps.InvoicesConfig',
+    #'apps.items.apps.ItemsConfig',
+    #'apps.reports.apps.ReportsConfig',
+    #'apps.expenses.apps.ExpensesConfig',
+    #'apps.attachment.apps.AttachmentConfig',
+    #'apps.azienda.apps.AziendaConfig',
+    #'commonviews.apps.CommonviewsConfig',
     'localflavor',
     'internationalflavor', 
     'phonenumber_field',
@@ -146,12 +146,14 @@ DATABASES = {
     }
 }
 
+"""
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.db.DatabaseCache',
-        'LOCATION': 'my_cache_table',
+        'LOCATION': 'django_orm_cache_table',
     }
 }
+"""
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators

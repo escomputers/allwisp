@@ -26,17 +26,31 @@ python -m pip install -r requirements.txt
 
 rsync -a site-packages/ venv3.9/lib/python3.9/site-packages/
 
-python manage.py createcachetable
+#edit file allwisp/venv3.9/lib/python3.9/site-packages/xhtml2pdf/xhtml2pdf_reportlab.py
+#by replacing line #20 with the following
+from reportlab.lib.utils import flatten, open_for_read, LazyImageReader, haveImages
 
 cd allwisp && python manage.py makemigrations
 
 python manage.py migrate
 
+python manage.py createcachetable django_orm_cache_table
+
+#uncomment in settings.py
+"""
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.db.DatabaseCache',
+        'LOCATION': 'django_orm_cache_table',
+    }
+}
+"""
+
 python manage.py createsuperuser
 
 python manage.py runserver 0.0.0.0:8000
 
-#new terminal
+#for DjangoQ open new terminal with venv activated
 python manage.py qcluster
 ```
 
