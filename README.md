@@ -26,10 +26,6 @@ python -m pip install -r requirements.txt
 
 rsync -a site-packages/ venv3.9/lib/python3.9/site-packages/
 
-#edit file allwisp/venv3.9/lib/python3.9/site-packages/xhtml2pdf/xhtml2pdf_reportlab.py
-#by replacing line #20 with the following
-from reportlab.lib.utils import flatten, open_for_read, LazyImageReader, haveImages
-
 cd allwisp && python manage.py makemigrations
 
 python manage.py migrate
