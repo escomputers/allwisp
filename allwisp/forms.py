@@ -3,13 +3,12 @@ from django.contrib.auth.models import Group
 from django.forms import ModelForm, Media, MediaDefiningClass, Widget, TextInput, NumberInput,EmailInput, URLInput, PasswordInput, HiddenInput, MultipleHiddenInput, FileInput, ClearableFileInput, Textarea, DateInput, DateTimeInput, TimeInput, CheckboxInput, Select, NullBooleanSelect, SelectMultiple, RadioSelect, CheckboxSelectMultiple, MultiWidget, SplitDateTimeWidget, SplitHiddenDateTimeWidget, SelectDateWidget
 from phonenumber_field.formfields import PhoneNumberField
 from phonenumber_field.widgets import PhoneNumberPrefixWidget
-from customer.models import Customer
-from items.models import InvoiceItem, offertainternet, cadenzapagamento, metodopagamento, offertavoip
-from invoices.models import Invoice,Preventivo,Nota_di_credito
-from expenses.models import Expense
-from attachment.models import InvoiceAttachment, ExpenseAttachment
+from apps.customer.models import Customer
+from apps.items.models import InvoiceItem, offertainternet, cadenzapagamento, metodopagamento, offertavoip
+from apps.invoices.models import Invoice,Preventivo,Nota_di_credito
+from apps.expenses.models import Expense
 from localflavor.generic.forms import IBANFormField, BICFormField
-from azienda.models import Azienda
+from apps.azienda.models import Azienda
 
 # per il formset
 class prodottiFatturaForm(forms.ModelForm):

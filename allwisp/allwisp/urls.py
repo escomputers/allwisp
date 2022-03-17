@@ -17,13 +17,12 @@ urlpatterns = [
 	path('password_change/done',auth_views.PasswordChangeDoneView.as_view(),name='password_change_done',),
    	path('appunti/', include('notes.urls')),
 	re_path(r'^', include('cms.urls')),
-	#path('customer/', include('apps.customer.urls')),
-	#path('invoice/', include('apps.invoices.urls')),
-	#path('expenses/', include('apps.expenses.urls')),
-	#path('items/', include('apps.items.urls')),
-	#path('accounting/', include('apps.reports.urls')),
-	#path('attachment/', include('apps.attachment.urls')),
-	#path('azienda/', include('apps.azienda.urls')),
+	path('customer/', include('apps.customer.urls')),
+	path('invoice/', include('apps.invoices.urls')),
+	path('expenses/', include('apps.expenses.urls')),
+	path('items/', include('apps.items.urls')),
+	path('accounting/', include('apps.reports.urls')),
+	path('azienda/', include('apps.azienda.urls')),
 	
 	
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

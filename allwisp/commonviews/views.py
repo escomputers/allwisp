@@ -9,7 +9,6 @@ import datetime
 
 from django.core.files.storage import FileSystemStorage
 from apps.customer.models import Customer
-from apps.attachment.models import InvoiceAttachment,ExpenseAttachment
 from  apps.expenses.models import Expense
 from apps.items.models import InvoiceItem
 from apps.invoices.models import Invoice
