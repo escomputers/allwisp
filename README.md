@@ -76,5 +76,11 @@ Fullcalendar              v5.10.1
 Select2                   v4.0.13
 Moment                    v3.0.0
 Daterangepicker           v3.0.5
+Datatables				  v1.11.5
+Datatables buttons		  v2.2.2
+Datatables colreorder     v1.5.5
+Datatables fixedcolumns   v4.0.2
+Datatables fixedheader    v3.2.2
+Datatables rowreorder     v1.2.8
 
 ```
