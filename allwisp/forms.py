@@ -76,19 +76,19 @@ class clientiForm(forms.ModelForm):
 			'customer_id' : NumberInput(attrs={"class":"form-control","id":"customer_id", 'placeholder':'Customer id','required':'True'}),
 			'stato_cliente_dato' : TextInput(attrs={"class":"form-control","id":"stato_cliente_dato","hidden":"True"}),
 			'ragionesociale' : TextInput(attrs={"class":"form-control","id":"ragionesociale",'placeholder':'ragione sociale','required':'True'}),
-			'codicefiscale' : TextInput(attrs={"class":"form-control","id":"codicefiscale","placeholder":"codice fiscale",'required':'True'}),
+			'codicefiscale' : TextInput(attrs={"class":"form-control","id":"codicefiscale","placeholder":"codice fiscale"}),
 			'piva' : TextInput(attrs={"class":"form-control","id":"piva","placehoder":"p.iva"}),
 			'codiceunivoco_sdi' : TextInput(attrs={"class":"form-control","id":"codiceunivoco_sdi", "placeholder":"C.univoco fattura"}),
 			'indirizzo_res' : TextInput(attrs={"class":"form-control","id":"indirizzo_res", 'placeholder':'indirizzo di residenza','required':'True'}),
 			'comune_res' : TextInput(attrs={"class":"form-control","id":"comune_res",'placeholder':'comune di residenza','required':'True'}),
 			'cap_res' : TextInput(attrs={"class":"form-control","id":"cap_res", 'placeholder':'cap di residenza','required':'True'}),
 			'prov_res' : TextInput(attrs={"class":"form-control","id":"prov_res", 'placeholder':'provincia di residenza','required':'True'}),
-			'indirizzo_inst' : TextInput(attrs={"class":"form-control","id":"indirizzo_inst", 'placeholder':'indirizzo di installazione','required':'True'}),
-			'comune_inst' : TextInput(attrs={"class":"form-control","id":"comune_inst",'placeholder':'provincia di installazione','required':'True'}),
-			'cap_inst' : TextInput(attrs={"class":"form-control","id":"cap_inst", 'placeholder':'cap di installazione','required':'True'}),
-			'prov_inst' : TextInput(attrs={"class":"form-control","id":"prov_inst",'placeholder':'provincia di installazione','required':'True'}),
+			'indirizzo_inst' : TextInput(attrs={"class":"form-control","id":"indirizzo_inst", 'placeholder':'indirizzo di installazione'}),
+			'comune_inst' : TextInput(attrs={"class":"form-control","id":"comune_inst",'placeholder':'provincia di installazione'}),
+			'cap_inst' : TextInput(attrs={"class":"form-control","id":"cap_inst", 'placeholder':'cap di installazione'}),
+			'prov_inst' : TextInput(attrs={"class":"form-control","id":"prov_inst",'placeholder':'provincia di installazione'}),
 			'coordinate_gps' : TextInput(attrs={"class":"form-control","id":"coordinate_gps", 'placeholder':'coordinate gps'}),
-			'importo_attivazione' : NumberInput(attrs={"class":"form-control","id":"importo_attivazione", 'placeholder':'importo attivazione','required':'True'}),
+			'importo_attivazione' : NumberInput(attrs={"class":"form-control","id":"importo_attivazione", 'placeholder':'importo attivazione'}),
 			'importo_offerta_dedicata' : NumberInput(attrs={"class":"form-control","id":"importo_offerta_dedicata", 'placeholder':'Importo offerta dedicata'}),
 			'codice_iban' : TextInput(attrs={"class":"form-control","id":"codice_iban", 'placeholder':'Iban'}),
 			'spese_invio_bolletta' : NumberInput(attrs={"class":"form-control","id":"spese_invio_bolletta",'placeholder':'Spese invio bollette'}),
@@ -104,14 +104,14 @@ class clientiForm(forms.ModelForm):
 			'numero_voip' : PhoneNumberPrefixWidget(attrs={'placeholder': 'Numero Voip', 'class': "form-control"}),
 			'ip_statico' : TextInput(attrs={"class":"form-control","id":"ip_statico",'placeholder':'Ip statico'}),
 			'offerta_internet' : Select(attrs={"class":"custom-select md-form","id":"offerta_internet", 'placeholder':'Offerta internet','required':'True'}),
-			'cadenza_pagamento' : Select(attrs={"class":"custom-select md-form","id":"cadenza_pagamento", "class":"form-control"}),
+			'cadenza_pagamento' : Select(attrs={"class":"custom-select md-form","id":"cadenza_pagamento", "class":"form-control", "required":"True"}),
 			'metodo_pagamento' : Select(attrs={"class":"custom-select","id":"metodo_pagamento",'required':'True'}),
-			'data_installazione' : DateInput(attrs={"class":"date","id":"data_installazione", "required":"true"}),
-			'data_inizio_contratto' : DateInput(attrs={"class":"date","id":"data_inizio_contratto"}),
-			'data_fine_contratto': DateInput(attrs={"class":"date","id":"data_fine_contratto", 'readonly':'true'}),
+			'data_installazione' : DateInput(attrs={"class":"date","id":"data_installazione", "required":"True"}),
+			'data_inizio_contratto' : DateInput(attrs={"class":"date","id":"data_inizio_contratto","required":"True"}),
+			'data_fine_contratto': DateInput(attrs={"class":"date","id":"data_fine_contratto", 'readonly':'True'}),
 			'data_contattato': DateInput(attrs={"class":"date","id":"data_contattato"}),
 			'data_contattare_stabilito_cliente': DateInput(),
-			'data_da_contattare': DateInput(attrs={"class":"date","id":"data_contattato", 'readonly':'true'})
+			'data_da_contattare': DateInput(attrs={"class":"date","id":"data_contattato", 'readonly':'True'})
 
 		
 }
@@ -207,7 +207,7 @@ class interessatiForm(forms.ModelForm):
 			'cap_res' : TextInput(attrs={"class":"form-control","id":"cap_res1", 'placeholder':'cap di residenza','required':'True'}),
 			'prov_res' : TextInput(attrs={"class":"form-control","id":"prov_res1", 'placeholder':'provincia di residenza','required':'True'}),
 			'indirizzo_inst' : TextInput(attrs={"class":"form-control","id":"indirizzo_inst1", 'placeholder':'indirizzo di installazione','required':'True'}),
-			'comune_inst' : TextInput(attrs={"class":"form-control","id":"comune_inst1",'placeholder':'provincia di installazione','required':'True'}),
+			'comune_inst' : TextInput(attrs={"class":"form-control","id":"comune_inst1",'placeholder':'Comune di installazione','required':'True'}),
 			'cap_inst' : TextInput(attrs={"class":"form-control","id":"cap_inst1", 'placeholder':'cap di installazione','required':'True'}),
 			'prov_inst' : TextInput(attrs={"class":"form-control","id":"prov_inst1",'placeholder':'provincia di installazione','required':'True'}),
 			'coordinate_gps' : TextInput(attrs={"class":"form-control","id":"coordinate_gps1", 'placeholder':'coordinate gps','required':'True'}),
@@ -220,7 +220,7 @@ class interessatiForm(forms.ModelForm):
 			'fax' : PhoneNumberPrefixWidget(attrs={'placeholder': 'Fax', 'class': "form-control"}),
 			'data_contattato': DateInput(attrs={"class":"date","id":"data_contattato",'required':'True'}),
 			'data_contattare_stabilito_cliente': DateInput(),
-			'data_da_contattare': DateInput(attrs={"class":"date","id":"data_contattato", 'readonly':'true'})
+			'data_da_contattare': DateInput(attrs={"class":"date","id":"data_contattato", 'readonly':'True'})
 
 		
 }
