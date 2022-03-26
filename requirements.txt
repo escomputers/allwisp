@@ -32,7 +32,7 @@ Pygments
 Pillow
 reportlab
 webencodings
-xhtml2pdf
+git+https://github.com/xhtml2pdf/xhtml2pdf.git@master#egg=xhtml2pdf
 Markdown
 markdown-checklist
 python-decouple

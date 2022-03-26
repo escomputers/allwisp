@@ -26,10 +26,6 @@ python -m pip install -r requirements.txt
 
 rsync -a site-packages/ venv3.9/lib/python3.9/site-packages/
 
-#edit file allwisp/venv3.9/lib/python3.9/site-packages/xhtml2pdf/xhtml2pdf_reportlab.py
-#by replacing line #20 with the following
-from reportlab.lib.utils import flatten, open_for_read, LazyImageReader, haveImages
-
 cd allwisp && python manage.py makemigrations
 
 python manage.py migrate
@@ -80,5 +76,11 @@ Fullcalendar              v5.10.1
 Select2                   v4.0.13
 Moment                    v3.0.0
 Daterangepicker           v3.0.5
+Datatables				  v1.11.5
+Datatables buttons		  v2.2.2
+Datatables colreorder     v1.5.5
+Datatables fixedcolumns   v4.0.2
+Datatables fixedheader    v3.2.2
+Datatables rowreorder     v1.2.8
 
 ```
