@@ -65,7 +65,7 @@ Pip
 
 #Javascript libraries in compressed versions (min.js)
 jQuery                    v3.6.0
-jQuery UI                 v1.12.1
+jQuery UI                 v1.13.1
 jQuery OverlayScrollbars  v1.13.0
 jQuery TableDND           v0.5.0
 Bootstrap Bundle          v.4.0.0
@@ -76,6 +76,7 @@ Fullcalendar              v5.10.1
 Select2                   v4.0.13
 Moment                    v3.0.0
 Bootstrap datetimepicker  v4.17.49
+Daterangepicker			  v.3.0.5
 Datatables				  v1.11.5
 Datatables buttons		  v2.2.2
 Datatables colreorder     v1.5.5
