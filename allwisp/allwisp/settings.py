@@ -145,14 +145,13 @@ DATABASES = {
     }
 }
 
-"""
+
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.db.DatabaseCache',
         'LOCATION': 'django_orm_cache_table',
     }
 }
-"""
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
@@ -201,27 +200,41 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
-
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 TODO_DEFAULT_LIST_SLUG = 'sitoweb'
 
+
+#EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_TLS = True
-EMAIL_HOST = 'mail.arpanetitalia.com'
+EMAIL_HOST = 'smtp.office365.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'service@arpanetitalia.com'
-EMAIL_HOST_PASSWORD = 'arp$trSpd8889'
+EMAIL_HOST_USER = 'smartinvoice@outlook.it'
+EMAIL_HOST_PASSWORD = 'Arpanet2021$'
+
 
 PHONENUMBER_DB_FORMAT = "INTERNATIONAL"
 
 Q_CLUSTER = {
-    'name': 'DjangORMcalendarApp',
+    'name': 'DjangORMcalendar',
     'workers': 1,
     'timeout': 90,
     'retry': 120,
     'queue_limit': 50,
     'bulk': 10,
-    'orm': 'default'
+    'orm': 'default',
+    'catch_up': False
+}
+
+Q_CLUSTER = {
+    'name': 'DjangORMrecur',
+    'workers': 1,
+    'timeout': 90,
+    'retry': 120,
+    'queue_limit': 50,
+    'bulk': 10,
+    'orm': 'default',
+    'catch_up': False
 }
