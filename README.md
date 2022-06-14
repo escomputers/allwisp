@@ -12,7 +12,7 @@ In progress
 
 git clone -b development https://github.com/escomputers/allwisp.git
 
-#token expiring 12th Septmber 2022
+#token expiring 12th September 2022
 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
 
 
