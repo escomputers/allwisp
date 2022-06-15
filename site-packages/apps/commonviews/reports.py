@@ -8,9 +8,9 @@ import datetime
 
 
 from apps.customer.models import Customer
-from apps.invoices.models import Invoice
-from apps.items.models import InvoiceItem
-from apps.attachment.models import InvoiceAttachment, ExpenseAttachment
+from apps.documents.models import Document
+from apps.items.models import DocumentItem
+from apps.attachment.models import DocumentAttachment, ExpenseAttachment
 from apps.expenses.models import Expense
 
 
@@ -27,18 +27,18 @@ def accounting(request):
 			}
 			return render(request, 'accounting.html', context)
 		else:
-			paidinvoices = Invoice.objects.filter(date__gt=start).filter(date__lt=end).filter(status = 'Paid')
-			allinvoices = Invoice.objects.filter(date__gt=start).filter(date__lt=end)
+			paiddocuments = Document.objects.filter(date__gt=start).filter(date__lt=end).filter(status = 'Paid')
+			alldocuments = Document.objects.filter(date__gt=start).filter(date__lt=end)
 			expenses = Expense.objects.filter(date__gt=start).filter(date__lt=end)
 			
-			# Sum of all paid invoices
-			invoicetotal = 0
-			for i in paidinvoices:
-				invoicetotal += i.total_items()
+			# Sum of all paid documents
+			documenttotal = 0
+			for i in paiddocuments:
+				documenttotal += i.total_items()
 				
-			# Add invoice expenses within date range, regardless of invoice status
-			for i in allinvoices:
-				expenses = list(chain(expenses, Expense.objects.filter(invoice=i)))
+			# Add document expenses within date range, regardless of document status
+			for i in alldocuments:
+				expenses = list(chain(expenses, Expense.objects.filter(document=i)))
 			
 			# Sum of all expenses
 			expensetotal = 0
@@ -48,11 +48,11 @@ def accounting(request):
 			context = {
 				'start' : start,
 				'end' : end,
-				'invoices' : paidinvoices,
+				'documents' : paiddocuments,
 				'expenses' : expenses,
-				'invoicetotal' : invoicetotal,
+				'documenttotal' : documenttotal,
 				'expensetotal' : expensetotal,
-				'nettotal' : invoicetotal - expensetotal,
+				'nettotal' : documenttotal - expensetotal,
 			}
 			return render(request, 'accounting.html', context)
 	else:

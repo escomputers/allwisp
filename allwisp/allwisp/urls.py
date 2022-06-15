@@ -18,7 +18,7 @@ urlpatterns = [
    	path('appunti/', include('notes.urls')),
 	re_path(r'^', include('cms.urls')),
 	path('customer/', include('apps.customer.urls')),
-	path('invoice/', include('apps.invoices.urls')),
+	path('document/', include('apps.documents.urls')),
 	path('expenses/', include('apps.expenses.urls')),
 	path('items/', include('apps.items.urls')),
 	path('accounting/', include('apps.reports.urls')),
