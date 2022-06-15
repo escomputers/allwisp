@@ -12,8 +12,8 @@ In progress
 
 git clone https://github.com/escomputers/allwisp.git
 
-#token expiring 12th June 2022
-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
+#token expiring 12th September 2022
+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
 
 
 cd allwisp && wget https://github.com/escomputers/PortableVirtualenv/raw/master/venv3.9_lin_amd64.tar.xz
