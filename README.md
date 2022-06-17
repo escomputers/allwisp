@@ -13,9 +13,11 @@ All-in-one web based Enterprise Resource Planning software:
 
 # Demo
 
+```
 http://ec2-13-38-127-165.eu-west-3.compute.amazonaws.com:8000/todo
 user: demo
 password: demo
+```
 
 # Developer Installation 
 
