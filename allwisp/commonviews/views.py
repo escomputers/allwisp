@@ -10,96 +10,96 @@ import datetime
 from django.core.files.storage import FileSystemStorage
 from apps.customer.models import Customer
 from  apps.expenses.models import Expense
-from apps.items.models import InvoiceItem
-from apps.invoices.models import Invoice
+from apps.items.models import DocumentItem
+from apps.documents.models import Document
 
 
 
-# Default invoice list, show 25 recent invoices
+# Default document list, show 25 recent documents
 @login_required(login_url='login/')
 def index(request):
-    invoices = Invoice.objects.order_by('-date')[:25]
+    documents = Document.objects.order_by('-date')[:25]
     context = {
-		'title' : 'Recent Invoices',
-        'invoice_list' : invoices,
+		'title' : 'Recent Documents',
+        'document_list' : documents,
     }
     return render(request, 'index.html', context)
 
 
 
 
-# Show big list of all invoices
+# Show big list of all documents
 @login_required(login_url='login/')
-def all_invoices(request):
-    invoices = Invoice.objects.order_by('-date')
+def all_documents(request):
+    documents = Document.objects.order_by('-date')
     context = {
-		'title' : 'All Invoices',
-        'invoice_list' : invoices,
+		'title' : 'All Documents',
+        'document_list' : documents,
     }
     return render(request, 'index.html', context)
 
 
 
-# Show draft invoices
+# Show draft documents
 @login_required(login_url='login/')
-def draft_invoices(request):
-    invoices = Invoice.objects.filter(status='Draft').order_by('-date')
+def draft_documents(request):
+    documents = Document.objects.filter(status='Draft').order_by('-date')
     context = {
-		'title' : 'Draft Invoices',
-        'invoice_list' : invoices,
+		'title' : 'Draft Documents',
+        'document_list' : documents,
     }
     return render(request, 'index.html', context)
 
 
 
-# Show paid invoices
+# Show paid documents
 @login_required(login_url='login/')
-def paid_invoices(request):
-    invoices = Invoice.objects.filter(status='Paid').order_by('-date')
+def paid_documents(request):
+    documents = Document.objects.filter(status='Paid').order_by('-date')
     context = {
-		'title' : 'Paid Invoices',
-        'invoice_list' : invoices,
+		'title' : 'Paid Documents',
+        'document_list' : documents,
     }
     return render(request, 'index.html', context)
 
 
 
-# Show unpaid invoices
+# Show unpaid documents
 @login_required(login_url='login/')
-def unpaid_invoices(request):
-    invoices = Invoice.objects.filter(status='Unpaid').order_by('-date')
+def unpaid_documents(request):
+    documents = Document.objects.filter(status='Unpaid').order_by('-date')
     context = {
-		'title' : 'Unpaid Invoices',
-        'invoice_list' : invoices,
+		'title' : 'Unpaid Documents',
+        'document_list' : documents,
     }
     return render(request, 'index.html', context)
 
 
 
-# Display a specific invoice
+# Display a specific document
 @login_required(login_url='login/')
-def invoice(request, invoice_id):
-    invoice = get_object_or_404(Invoice, pk=invoice_id)
+def document(request, document_id):
+    document = get_object_or_404(Document, pk=document_id)
     context = {
-		'title' : 'Invoice ' + str(invoice_id),
-	    'invoice' : invoice,
+		'title' : 'Document ' + str(document_id),
+	    'document' : document,
 	}
-    return render(request, 'invoice.html', context)
+    return render(request, 'document.html', context)
 
 
 
-# Search for invoice
+# Search for document
 @login_required(login_url='login/')
-def search_invoice(request):
+def search_document(request):
     id = request.POST['id']
-    return HttpResponseRedirect(reverse('invoice', args=(id,)))
+    return HttpResponseRedirect(reverse('document', args=(id,)))
 
 
 
-# Create new invoice
+# Create new document
 @login_required(login_url='login/')
-def new_invoice(request):
-	# If no customer_id is defined, create a new invoice
+def new_document(request):
+	# If no customer_id is defined, create a new document
 	if request.method=='POST':
 		customer_id = request.POST['customer_id']
 
@@ -110,12 +110,12 @@ def new_invoice(request):
 				'customer_list' : customers,
 				'error_message' : 'Seleziona un cliente dalla lista',
 				}
-			return render(request, 'new_invoice.html', context)
+			return render(request, 'new_document.html', context)
 		else:
 			customer = get_object_or_404(Customer, pk=customer_id)
-			i = Invoice(customer=customer, date=datetime.date.today(), status='Unpaid')
+			i = Document(customer=customer, date=datetime.date.today(), status='Unpaid')
 			i.save()
-			return HttpResponseRedirect(reverse('invoice', args=(i.id,)))
+			return HttpResponseRedirect(reverse('document', args=(i.id,)))
 
 	else:
 		# Customer list needed to populate select field
@@ -124,87 +124,87 @@ def new_invoice(request):
 			'title' : 'Nuova fattura',
 			'customer_list' : customers,
 		}
-		return render(request, 'new_invoice.html', context)
+		return render(request, 'new_document.html', context)
 
 
 
-# Print invoice
+# Print document
 @login_required(login_url='login/')
-def print_invoice(request, invoice_id):
-    invoice = get_object_or_404(Invoice, pk=invoice_id)
+def print_document(request, document_id):
+    document = get_object_or_404(Document, pk=document_id)
     context = {
-		'title' : "Invoice " + str(invoice_id),
-	    'invoice' : invoice,
+		'title' : "Document " + str(document_id),
+	    'document' : document,
 	}
-    return render(request, 'print_invoice.html', context)
+    return render(request, 'print_document.html', context)
 
 
 
-# Delete an invoice
+# Delete an document
 @login_required(login_url='login/')
-def delete_invoice(request, invoice_id):
-    invoice = get_object_or_404(Invoice, pk=invoice_id)
-    invoice.delete()
+def delete_document(request, document_id):
+    document = get_object_or_404(Document, pk=document_id)
+    document.delete()
     return HttpResponseRedirect(reverse('index'))
 
 
 
-# Update invoice
+# Update document
 @login_required(login_url='login/')
-def update_invoice(request, invoice_id):
-	invoice = get_object_or_404(Invoice, pk=invoice_id)
+def update_document(request, document_id):
+	document = get_object_or_404(Document, pk=document_id)
 	try:
-		invoice.date = datetime.datetime.strptime(request.POST['date'], "%m/%d/%Y")
-		invoice.status = request.POST['status']
-		invoice.save()
-	except (KeyError, Invoice.DoesNotExist):
-		return render(request, 'invoice.html', {
-			'invoice': invoice,
+		document.date = datetime.datetime.strptime(request.POST['date'], "%m/%d/%Y")
+		document.status = request.POST['status']
+		document.save()
+	except (KeyError, Document.DoesNotExist):
+		return render(request, 'document.html', {
+			'document': document,
 			'error_message': 'Si è verificato un problema, non sono stato in grado di aggiornare la fattura',
 		})
 	else:
 		context = {
 			'confirm_update' : True,
-			'title' : 'Invoice ' + str(invoice_id),
-			'invoice' : invoice,
+			'title' : 'Document ' + str(document_id),
+			'document' : document,
 			}
-		return render(request, 'invoice.html', context)
+		return render(request, 'document.html', context)
 
 
 
-# Upload attachment for invoice
+# Upload attachment for document
 @login_required(login_url='login/')
-def upload_invoice_attachment(request, invoice_id):
+def upload_document_attachment(request, document_id):
     myfile = request.FILES['file']
-    invoice = get_object_or_404(Invoice, pk=invoice_id)
+    document = get_object_or_404(Document, pk=document_id)
 
     fs = FileSystemStorage()
     fs.save(myfile.name, myfile)
 
-    e = invoice.invoiceattachment_set.create(file=myfile, displayname=myfile.name)
+    e = document.documentattachment_set.create(file=myfile, displayname=myfile.name)
     e.save()
 
-    return HttpResponseRedirect(reverse('invoice', args=(invoice.id,)))
+    return HttpResponseRedirect(reverse('document', args=(document.id,)))
 
 
 
-# Delete attachment from invoice
+# Delete attachment from document
 @login_required(login_url='login/')
-def delete_invoice_attachment(request, invoice_id, invoiceattachment_id):
-	invoice = get_object_or_404(Invoice, pk=invoice_id)
-	invoiceattachment = get_object_or_404(InvoiceAttachment, pk=invoiceattachment_id)
+def delete_document_attachment(request, document_id, documentattachment_id):
+	document = get_object_or_404(Document, pk=document_id)
+	documentattachment = get_object_or_404(DocumentAttachment, pk=documentattachment_id)
 	try:
-		invoiceattachment.delete()
+		documentattachment.delete()
 		fs = FileSystemStorage()
-		fs.delete(invoiceattachment)
+		fs.delete(documentattachment)
 	except:
 		context = {
 			'error_message' : "Unable to delete attachment!",
-			'invoice_id' : invoice_id
+			'document_id' : document_id
 		}
-		return render(request, 'view_invoice.html', context)
+		return render(request, 'view_document.html', context)
 	else:
-		return HttpResponseRedirect(reverse('invoice', args=(invoice.id,)))
+		return HttpResponseRedirect(reverse('document', args=(document.id,)))
 
 # User login
 def login_view(request):
