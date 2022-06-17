@@ -93,9 +93,9 @@ Bootstrap Datetimepicker  v4.17.49
 Bootstrap Toggle          v2.2.0
 Bootstrap icheck          v3.0.1
 Bootstrap Duallistbox     v4.0.2
-Daterangepicker			  v.3.0.5
-Datatables				  v1.11.5
-Datatables buttons		  v2.2.2
+Daterangepicker           v.3.0.5
+Datatables                v1.11.5
+Datatables buttons        v2.2.2
 Datatables colreorder     v1.5.5
 Datatables fixedcolumns   v4.0.2
 Datatables fixedheader    v3.2.2
