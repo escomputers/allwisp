@@ -63,7 +63,7 @@ INSTALLED_APPS = [
     'taggit',
 	'notes',
     'apps.customer.apps.CustomerConfig' ,
-    'apps.invoices.apps.InvoicesConfig',
+    'apps.documents.apps.DocumentsConfig',
     'apps.items.apps.ItemsConfig',
     'apps.reports.apps.ReportsConfig',
     'apps.expenses.apps.ExpensesConfig',
