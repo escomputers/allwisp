@@ -77,29 +77,34 @@ Python 3.8>
 Pip
 
 #Javascript libraries in compressed versions (min.js)
-Adminlte                  v3.2.0
-jQuery                    v3.6.0
-jQuery UI                 v1.13.1
-jQuery OverlayScrollbars  v1.13.0
-jQuery TableDND           v0.5.0
-Bootstrap Bundle          v.4.0.0
-Bootstrap Tagsinput       v0.8.0
-AdminLTE                  v3.1.0
-Easymde                   v2.15.0
-Fullcalendar              v5.10.1
-Select2                   v4.0.13
-Moment                    v3.0.0
-Bootstrap Datetimepicker  v4.17.49
-Bootstrap Toggle          v2.2.0
-Bootstrap icheck          v3.0.1
-Bootstrap Duallistbox     v4.0.2
-Daterangepicker           v.3.0.5
-Datatables                v1.11.5
-Datatables buttons        v2.2.2
-Datatables colreorder     v1.5.5
-Datatables fixedcolumns   v4.0.2
-Datatables fixedheader    v3.2.2
-Datatables rowreorder     v1.2.8
-JSZip                     v3.7.1
-Pdfmake                   v0.2.4
+Adminlte                  		v3.2.0
+jQuery                    		v3.6.0
+jQuery UI                 		v1.13.1
+jQuery OverlayScrollbars  		v1.13.0
+jQuery TableDND           		v0.5.0
+Bootstrap Bundle          		v.4.0.0
+Bootstrap Tagsinput       		v0.8.0
+Easymde                   		v2.15.0
+Fullcalendar              		v5.10.1
+Select2                   		v4.0.13
+Moment                    		v3.0.0
+Bootstrap Datetimepicker  		v4.17.49
+Bootstrap Toggle          		v2.2.0
+Bootstrap icheck          		v3.0.1
+Bootstrap Duallistbox     		v4.0.2
+Daterangepicker           		v.3.0.5
+Datatables                		v1.11.5
+Datatables buttons        		v2.2.2
+Datatables colreorder     		v1.5.5
+Datatables fixedcolumns   		v4.0.2
+Datatables fixedheader    		v3.2.2
+Datatables rowreorder     		v1.2.8
+JSZip                     		v3.7.1
+Pdfmake                         v0.2.4
+Maplibre-gl                     v1.15.2
+Maplibre-gl-js-amplify (umd)	v1.5.0
+Aws-amplify-core              	v4.3.0 
+Aws-amplify-auth                v4.3.8       
+Aws-amplify-geo                 v1.3.2
+Aws-sdk                         v2.1167.0
 ```

@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+      crossorigin="anonymous"/>
+    <link href="https://cdn.amplify.aws/packages/maplibre-gl/1.15.2/maplibre-gl.css" rel="stylesheet" integrity="sha384-DrPVD9GufrxGb7kWwRv0CywpXTmfvbKOZ5i5pN7urmIThew0zXKTME+gutUgtpeD" crossorigin="anonymous" referrerpolicy="no-referrer"></link>
+    <script src="https://cdn.amplify.aws/packages/maplibre-gl/1.15.2/maplibre-gl.js" integrity="
+    sha384-rwYfkmAOpciZS2bDuwZ/Xa/Gog6jXem8D/whm3wnsZSVFemDDlprcUXHnDDUcrNU" crossorigin="anonymous" referrerpolicy="no-referrer">
+    </script>
+    <script src="https://cdn.amplify.aws/packages/core/4.3.0/aws-amplify-core.min.js" integrity="sha384-7Oh+5w0l7XGyYvSqbKi2Q7SA5K640V5nyW2/LEbevDQEV1HMJqJLA1A00z2hu8fJ" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.amplify.aws/packages/auth/4.3.8/aws-amplify-auth.min.js" integrity="sha384-jfkXCEfYyVmDXYKlgWNwv54xRaZgk14m7sjeb2jLVBtUXCD2p+WU8YZ2mPZ9Xbdw" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.amplify.aws/packages/geo/1.1.0/aws-amplify-geo.min.js" integrity="sha384-TFMTyWuCbiptXTzvOgzJbV8TPUupG1rA1AVrznAhCSpXTIdGw82bGd8RTk5rr3nP" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.amplify.aws/packages/maplibre-gl-js-amplify/1.1.0/maplibre-gl-js-amplify.umd.min.js" integrity="sha384-7/RxWonKW1nM9zCKiwU9x6bkQTjldosg0D1vZYm0Zj+K/vUSnA3sOMhlRRWAtHPi" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://kit.fontawesome.com/d010f6acd2.js" crossorigin="anonymous"></script>
+    <style>
+      body {
+        margin: 0;
+      }
+      #app {
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-content: center;
+        align-items: flex-start;
+      }
+      #sidebar {
+        width: 400px;
+        height: 100vh;
+        border-right: 1px solid #ccc;
+      }
+      #map {
+        flex: 1;
+        height: 100vh;
+      }
+      img#logo {
+        width: 32px;
+        height: 32px;
+      }
+      #result {
+        border: 1px dotted #ccc;
+        padding: 3px;
+      }
+      #result ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+      }
+      #result ul li {
+        padding: 5px 0;
+      }
+      #result ul li:hover {
+        background: #eee;
+      }      
+    </style>
+    <title>Amazon Location Service Demo App</title>
+  </head>
+  <body>
+    <!-- main app container -->
+    <div id="app">
+      <!-- sidebar -->
+      <div id="sidebar">
+        <div class="container">
+          <h5 class="text-center mt-4 mb-4">
+            <img id="logo" src="https://d2q66yyjeovezo.cloudfront.net/icon/waypoint-6c1d2320a20dd76867d0420ce2708023.svg"/>
+            <br/>
+            <span>Amazon Location Service Demo</span>
+          </h5>
+          <form action="#" class="mb-4" id="search-pois-form">
+            <div class="input-group">
+              <input autocomplete="off" type="text" class="form-control" id="pois-search-term" placeholder="POI search">
+             <button type="submit" class="btn btn-secondary"><i class="fas fa-search"></i></button>
+		   </div>
+            <div id="result"></div>
+          </form>
+        </div>
+      </div>
+      <!-- map container -->
+      <div id="map" />
+    </div>
+    <!-- JavaScript dependencies -->
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1167.0.min.js"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>
