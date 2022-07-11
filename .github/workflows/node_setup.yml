@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout repository content
       - uses: actions/checkout@v3
+        with:
+          repository: 'allwisp'
+          token: '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'
   
       - name: show file content
         run: cat package.json
