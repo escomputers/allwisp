@@ -13,7 +13,5 @@ jobs:
     steps:
       - name: Checkout repository content
       - uses: actions/checkout@v3
-  
-      - name: show file content
-        run: cat package.json
+      - run: cat package.json
     
