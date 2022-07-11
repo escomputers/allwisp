@@ -18,7 +18,7 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 16
-        cache-dependency-path : '/home/runner/work/allwisp/allwisp/package.json'
+        cache-dependency-path : /home/runner/work/allwisp/allwisp/package.json
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
