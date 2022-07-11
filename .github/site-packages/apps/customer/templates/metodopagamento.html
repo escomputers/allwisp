@@ -1,0 +1,96 @@
+{% extends "base.html" %} 
+{% block content %}  
+<div class="content-wrapper">
+  <section class="content-header">
+    <div class="container-fluid">
+      <div class="row mb-2">
+        <div class="col-sm-6">
+          <h1>Aggiungi metodo di pagamento</h1>
+        </div>
+        <div class="col-sm-6">
+          <ol class="breadcrumb float-sm-right">
+            <li class="breadcrumb-item">
+              <a href="homepage.html">Home</a>
+            </li>
+            <li class="breadcrumb-item active">Aggiungi metodo di pagamento</li>
+          </ol>
+        </div>
+      </div>
+    </div><!-- /.container-fluid -->
+  </section><!-- Main content -->
+
+  <section class="content">
+   
+    <div class="container-fluid">
+      
+        <!-- left column -->
+        <div class="col-xl-12">
+         
+       <form method="POST"  action="{% url 'metodo_pagamento' %}" name="prodotto" >
+      {% csrf_token %}
+          <div class="card card-warning">
+            <div class="card-header">
+              <h3 class="card-title">Aggiungi metodo di pagamento</h3>
+            </div><!-- /.card-header -->
+         <div class="card-body">
+                <div class="row">
+                  <div class="col-sm-2">
+                    <!-- text input -->
+                    <div class="form-group">
+                      <label for="nomeofferta">Descrizione metodo</label> 
+                      {{form.metodo}}
+                    </div>
+                  </div>
+                  <div class="col-sm-2">
+              <label>Salva</label> 
+              <br>
+
+                <input type="submit" name="save" value="Salva prodotto" class="btn btn-success"/>
+             
+            </div>
+               <div class="row">
+                  <div class="col-sm-10">
+                    <br>
+                    <br>
+                    <h6><strong><bold><italic><font color="#fe5000">Attenzione:</font></h6></strong></bold></italic>
+                    <br>
+                   <h6><strong><bold><italic>Inserire solo la denominazione del metodo, come per esmpio: Rid, carta di credito, bolletta, contanti ecc...</h6></strong></bold></italic>
+                 </div>
+                </div>
+			  </div>
+            <!-- /.card-body -->
+          </div>
+         
+          	</form>
+          </div>
+         <!-- /.card-body -->
+          </div><!-- /.card -->
+      <!--/.col (right) -->
+
+  </section>
+</div>
+
+<script type="text/javascript">
+  $('#prodotto').submit(function(event){
+        event.preventDefault();
+        var $prodotto = $(this);
+        $.ajax({
+        type: 'post',
+        url: "{% url 'aggiungi_offerta'%}",
+        data:{csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val(), 
+          data:$prodotto.serialize()},
+        success: function($prodotto) {
+        alert("I dati sono stati correttamente salvati");
+        console.log(data)
+        },
+        error: function(error) {
+        alert("I dati non sono stati salvati, controlla e reinvia");
+        console.log(error)
+        }
+        });
+        });
+  
+</script>
+
+
+{% endblock %}
