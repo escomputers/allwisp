@@ -18,8 +18,10 @@ jobs:
         node-version: 16
        
     - run: npm install -g npm@latest
+    - run: npm install grunt --save-dev
     - run: npm install
     - run: npm ci
     - run: npm run build --if-present
+    - run: grunt
     
     
