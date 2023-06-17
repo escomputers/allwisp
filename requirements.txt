@@ -1,7 +1,7 @@
 #COMMON#
 wheel
 Unidecode
-django==3.2.14
+django==3.2.19
 django-q
 
 #APP CMS#
