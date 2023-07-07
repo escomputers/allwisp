@@ -13,21 +13,11 @@ All-in-one web based Enterprise Resource Planning software:
 
 # Demo
 
-```
-http://ec2-13-38-127-165.eu-west-3.compute.amazonaws.com:8000/todo
-user: demo
-password: demo
-```
-
 # Developer Installation 
 
 ```bash
 
 git clone https://github.com/escomputers/allwisp.git
-
-#token expiring 12th September 2022
-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
-
 
 cd allwisp && wget https://github.com/escomputers/PortableVirtualenv/raw/master/venv3.9_lin_amd64.tar.xz
 
