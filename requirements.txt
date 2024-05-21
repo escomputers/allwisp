@@ -52,3 +52,4 @@ django-vies
 phonenumbers
 django-countries
 django-phonenumber-field
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
